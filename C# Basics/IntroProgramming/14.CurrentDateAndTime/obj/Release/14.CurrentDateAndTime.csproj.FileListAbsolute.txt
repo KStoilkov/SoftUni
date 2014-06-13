@@ -1,0 +1,5 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\14.CurrentDateAndTime\bin\Release\14.CurrentDateAndTime.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\14.CurrentDateAndTime\bin\Release\14.CurrentDateAndTime.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\14.CurrentDateAndTime\bin\Release\14.CurrentDateAndTime.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\14.CurrentDateAndTime\obj\Release\14.CurrentDateAndTime.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\14.CurrentDateAndTime\obj\Release\14.CurrentDateAndTime.pdb

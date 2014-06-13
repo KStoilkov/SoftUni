@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintFirstAndLastName\bin\Release\PrintFirstAndLastName.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintFirstAndLastName\bin\Release\PrintFirstAndLastName.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintFirstAndLastName\bin\Release\PrintFirstAndLastName.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintFirstAndLastName\obj\Release\04.PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintFirstAndLastName\obj\Release\PrintFirstAndLastName.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintFirstAndLastName\obj\Release\PrintFirstAndLastName.pdb
