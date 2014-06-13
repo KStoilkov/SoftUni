@@ -1,0 +1,6 @@
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\15.JoroTheFutballPlayer\bin\Debug\15.JoroTheFutballPlayer.exe.config
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\15.JoroTheFutballPlayer\bin\Debug\15.JoroTheFutballPlayer.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\15.JoroTheFutballPlayer\bin\Debug\15.JoroTheFutballPlayer.pdb
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\15.JoroTheFutballPlayer\obj\Debug\15.JoroTheFutballPlayer.csprojResolveAssemblyReference.cache
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\15.JoroTheFutballPlayer\obj\Debug\15.JoroTheFutballPlayer.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\15.JoroTheFutballPlayer\obj\Debug\15.JoroTheFutballPlayer.pdb

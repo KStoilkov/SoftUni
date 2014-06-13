@@ -1,0 +1,5 @@
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe.config
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.pdb
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb

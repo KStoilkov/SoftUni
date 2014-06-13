@@ -1,0 +1,2 @@
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Problem07\bin\Debug\Problem07.exe.config
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Problem07\obj\Debug\Problem07.exe
