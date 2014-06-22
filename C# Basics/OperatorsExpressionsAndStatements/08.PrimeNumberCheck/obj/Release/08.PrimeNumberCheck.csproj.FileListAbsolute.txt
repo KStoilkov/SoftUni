@@ -1,0 +1,5 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\bin\Release\08.PrimeNumberCheck.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\bin\Release\08.PrimeNumberCheck.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\bin\Release\08.PrimeNumberCheck.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\obj\Release\08.PrimeNumberCheck.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\obj\Release\08.PrimeNumberCheck.pdb

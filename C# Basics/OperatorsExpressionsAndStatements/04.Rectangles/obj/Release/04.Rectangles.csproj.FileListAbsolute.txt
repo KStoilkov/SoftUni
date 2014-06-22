@@ -1,0 +1,5 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Release\04.Rectangles.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Release\04.Rectangles.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Release\04.Rectangles.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Release\04.Rectangles.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Release\04.Rectangles.pdb

@@ -1,0 +1,5 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Release\03.DivideBy7And5.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Release\03.DivideBy7And5.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Release\03.DivideBy7And5.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\obj\Release\03.DivideBy7And5.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\obj\Release\03.DivideBy7And5.pdb

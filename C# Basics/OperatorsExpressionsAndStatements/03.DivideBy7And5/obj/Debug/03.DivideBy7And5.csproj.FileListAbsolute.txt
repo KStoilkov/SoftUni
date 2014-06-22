@@ -1,0 +1,5 @@
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb

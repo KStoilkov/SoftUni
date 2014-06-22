@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\01.OddOrEven\bin\Release\01.OddOrEven.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\01.OddOrEven\bin\Release\01.OddOrEven.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\01.OddOrEven\bin\Release\01.OddOrEven.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\01.OddOrEven\obj\Release\01.OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\01.OddOrEven\obj\Release\01.OddOrEven.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\01.OddOrEven\obj\Release\01.OddOrEven.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Release\12.ExtractBitFromInteger.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Release\12.ExtractBitFromInteger.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Release\12.ExtractBitFromInteger.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\obj\Release\12.ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\obj\Release\12.ExtractBitFromInteger.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\obj\Release\12.ExtractBitFromInteger.pdb

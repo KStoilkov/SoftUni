@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\11.BitwiseExtractBit3\bin\Release\11.BitwiseExtractBit3.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\11.BitwiseExtractBit3\bin\Release\11.BitwiseExtractBit3.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\11.BitwiseExtractBit3\bin\Release\11.BitwiseExtractBit3.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\11.BitwiseExtractBit3\obj\Release\11.BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\11.BitwiseExtractBit3\obj\Release\11.BitwiseExtractBit3.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\11.BitwiseExtractBit3\obj\Release\11.BitwiseExtractBit3.pdb

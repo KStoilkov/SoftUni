@@ -1,0 +1,5 @@
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.exe
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\04.Rectangles\bin\Debug\04.Rectangles.pdb
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.exe
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\04.Rectangles\obj\Debug\04.Rectangles.pdb

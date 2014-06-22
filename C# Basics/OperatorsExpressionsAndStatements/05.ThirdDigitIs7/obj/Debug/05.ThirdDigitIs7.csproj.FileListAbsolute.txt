@@ -1,0 +1,5 @@
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb
