@@ -1,0 +1,5 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\bin\Release\13.WorkHours.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\bin\Release\13.WorkHours.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\bin\Release\13.WorkHours.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\obj\Release\13.WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\obj\Release\13.WorkHours.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\obj\Release\13.WorkHours.pdb

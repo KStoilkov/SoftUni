@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\14.SumOfElements\bin\Release\14.SumOfElements.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\14.SumOfElements\bin\Release\14.SumOfElements.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\14.SumOfElements\bin\Release\14.SumOfElements.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\14.SumOfElements\obj\Release\14.SumOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\14.SumOfElements\obj\Release\14.SumOfElements.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\14.SumOfElements\obj\Release\14.SumOfElements.pdb
