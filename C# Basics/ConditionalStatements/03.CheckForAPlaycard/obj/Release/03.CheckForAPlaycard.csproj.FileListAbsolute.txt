@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\03.CheckForAPlaycard\bin\Release\03.CheckForAPlaycard.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\03.CheckForAPlaycard\obj\Release\03.CheckForAPlaycard.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\03.CheckForAPlaycard\bin\Release\03.CheckForAPlaycard.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\03.CheckForAPlaycard\bin\Release\03.CheckForAPlaycard.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\03.CheckForAPlaycard\obj\Release\03.CheckForAPlaycard.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\03.CheckForAPlaycard\obj\Release\03.CheckForAPlaycard.pdb

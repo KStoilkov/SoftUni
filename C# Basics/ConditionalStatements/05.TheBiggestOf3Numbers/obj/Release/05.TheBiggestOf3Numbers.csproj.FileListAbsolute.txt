@@ -1,0 +1,5 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\05.TheBiggestOf3Numbers\bin\Release\05.TheBiggestOf3Numbers.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\05.TheBiggestOf3Numbers\bin\Release\05.TheBiggestOf3Numbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\05.TheBiggestOf3Numbers\bin\Release\05.TheBiggestOf3Numbers.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\05.TheBiggestOf3Numbers\obj\Release\05.TheBiggestOf3Numbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\05.TheBiggestOf3Numbers\obj\Release\05.TheBiggestOf3Numbers.pdb
