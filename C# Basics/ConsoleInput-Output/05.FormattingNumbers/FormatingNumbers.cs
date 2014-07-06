@@ -22,9 +22,9 @@ namespace _05.FormattingNumbers
             }
 
             Console.Write("b: ");
-            double b = double.Parse(Console.ReadLine());
+            float b = float.Parse(Console.ReadLine());
             Console.Write("c: ");
-            double c = double.Parse(Console.ReadLine());
+            float c = float.Parse(Console.ReadLine());
             Console.WriteLine();
             Console.WriteLine("|{0, -10:X}|{1, 10}|{2, 10:F2}|{3, -10:0.000}|", a,Convert.ToString(a,2).PadLeft(10, '0'),b,c);
             Console.WriteLine();

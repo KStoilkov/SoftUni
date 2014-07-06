@@ -15,9 +15,9 @@ namespace _02.PrintCompanyInformation
             Console.Write("Company Adress: ");
             string companyAdress = Console.ReadLine();
             Console.Write("Company Phone Number: ");
-            uint phoneNumber = uint.Parse(Console.ReadLine());
+            string phoneNumber = Console.ReadLine();
             Console.Write("Company Fax Number: ");
-            int faxNumber = int.Parse(Console.ReadLine());
+            string faxNumber = Console.ReadLine();
             Console.Write("Company Website: ");
             string website = Console.ReadLine();
             Console.Write("Manager first name: ");
@@ -27,13 +27,20 @@ namespace _02.PrintCompanyInformation
             Console.Write("Manager age: ");
             byte managerAge = byte.Parse(Console.ReadLine());
             Console.Write("Manager phone number: ");
-            uint managerPhoneNumber = uint.Parse(Console.ReadLine());
+            string managerPhoneNumber = Console.ReadLine();
 
             Console.WriteLine();
             Console.WriteLine(companyName);
             Console.WriteLine("Adress: " + companyAdress);
             Console.WriteLine("Phone Number: " + phoneNumber);
-            Console.WriteLine("Fax: " + faxNumber);
+            if (faxNumber == "" || faxNumber== " ")
+            {
+                Console.WriteLine("Fax: (no fax)");
+            }
+            else
+            {
+                Console.WriteLine("Fax: " + faxNumber);
+            }
             Console.WriteLine("Website: " + website);
             Console.WriteLine("Manager: " + firstName + " " + lastName + " ( age: " + managerAge + ", tel. " + managerPhoneNumber + ")" );
             Console.WriteLine();

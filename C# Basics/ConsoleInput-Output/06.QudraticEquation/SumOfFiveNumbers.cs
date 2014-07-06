@@ -11,6 +11,11 @@ namespace _06.QudraticEquation
 
             Console.Write("a: ");
             double a = double.Parse(Console.ReadLine());
+            while (a == 0)
+            {
+                Console.Write("a ( != 0 ): ");
+                a = double.Parse(Console.ReadLine());
+            }
             Console.Write("b: ");
             double b = double.Parse(Console.ReadLine());
             Console.Write("c: ");
