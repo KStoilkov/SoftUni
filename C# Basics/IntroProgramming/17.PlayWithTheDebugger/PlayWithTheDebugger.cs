@@ -13,7 +13,7 @@ namespace _17.PlayWithTheDebugger
             //using the [F5] key. When the debugger stops at the breakpoint trace the code execution with [F10] key.
             //You do not have to submit anything in your homework for this problem. Just play with the debugger to learn how it works.
 
-            for (int i = 0; i < 1000; i++)
+            for (int i = 1; i <= 1000; i++)
             {
                 Console.WriteLine(i);
             }
