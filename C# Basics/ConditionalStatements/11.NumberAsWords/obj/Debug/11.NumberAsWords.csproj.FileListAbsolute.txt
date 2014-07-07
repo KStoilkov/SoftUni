@@ -1,0 +1,5 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb
