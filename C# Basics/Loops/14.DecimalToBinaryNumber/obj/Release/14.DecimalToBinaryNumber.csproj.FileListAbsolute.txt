@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\14.DecimalToBinaryNumber\bin\Release\14.DecimalToBinaryNumber.exe.config
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\14.DecimalToBinaryNumber\bin\Release\14.DecimalToBinaryNumber.exe
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\14.DecimalToBinaryNumber\bin\Release\14.DecimalToBinaryNumber.pdb
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\14.DecimalToBinaryNumber\obj\Release\14.DecimalToBinaryNumber.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\14.DecimalToBinaryNumber\obj\Release\14.DecimalToBinaryNumber.exe
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\14.DecimalToBinaryNumber\obj\Release\14.DecimalToBinaryNumber.pdb

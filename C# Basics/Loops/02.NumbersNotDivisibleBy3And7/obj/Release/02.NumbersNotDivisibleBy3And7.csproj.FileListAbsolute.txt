@@ -1,0 +1,6 @@
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\02.NumbersNotDivisibleBy3And7\bin\Release\02.NumbersNotDivisibleBy3And7.exe.config
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\02.NumbersNotDivisibleBy3And7\bin\Release\02.NumbersNotDivisibleBy3And7.exe
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\02.NumbersNotDivisibleBy3And7\bin\Release\02.NumbersNotDivisibleBy3And7.pdb
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\02.NumbersNotDivisibleBy3And7\obj\Release\02.NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\02.NumbersNotDivisibleBy3And7\obj\Release\02.NumbersNotDivisibleBy3And7.exe
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\02.NumbersNotDivisibleBy3And7\obj\Release\02.NumbersNotDivisibleBy3And7.pdb

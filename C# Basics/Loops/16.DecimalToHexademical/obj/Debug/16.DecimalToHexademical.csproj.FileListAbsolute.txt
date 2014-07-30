@@ -1,0 +1,5 @@
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\16.DecimalToHexademical\bin\Debug\16.DecimalToHexademical.exe.config
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\16.DecimalToHexademical\bin\Debug\16.DecimalToHexademical.exe
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\16.DecimalToHexademical\bin\Debug\16.DecimalToHexademical.pdb
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\16.DecimalToHexademical\obj\Debug\16.DecimalToHexademical.exe
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\16.DecimalToHexademical\obj\Debug\16.DecimalToHexademical.pdb

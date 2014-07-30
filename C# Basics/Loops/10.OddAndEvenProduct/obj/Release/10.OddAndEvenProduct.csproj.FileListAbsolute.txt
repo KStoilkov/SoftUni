@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\10.OddAndEvenProduct\bin\Release\10.OddAndEvenProduct.exe.config
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\10.OddAndEvenProduct\bin\Release\10.OddAndEvenProduct.exe
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\10.OddAndEvenProduct\bin\Release\10.OddAndEvenProduct.pdb
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\10.OddAndEvenProduct\obj\Release\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\10.OddAndEvenProduct\obj\Release\10.OddAndEvenProduct.exe
+C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\10.OddAndEvenProduct\obj\Release\10.OddAndEvenProduct.pdb

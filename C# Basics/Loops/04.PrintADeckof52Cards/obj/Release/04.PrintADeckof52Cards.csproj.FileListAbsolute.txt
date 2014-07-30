@@ -1,0 +1,6 @@
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\04.PrintADeckof52Cards\bin\Release\04.PrintADeckof52Cards.exe.config
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\04.PrintADeckof52Cards\bin\Release\04.PrintADeckof52Cards.exe
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\04.PrintADeckof52Cards\bin\Release\04.PrintADeckof52Cards.pdb
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\04.PrintADeckof52Cards\obj\Release\04.PrintADeckof52Cards.csprojResolveAssemblyReference.cache
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\04.PrintADeckof52Cards\obj\Release\04.PrintADeckof52Cards.exe
+c:\users\kiro\documents\visual studio 2012\Projects\Loops\04.PrintADeckof52Cards\obj\Release\04.PrintADeckof52Cards.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\Loops\06.Calculate2\bin\Release\06.Calculate2.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\Loops\06.Calculate2\bin\Release\06.Calculate2.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\Loops\06.Calculate2\bin\Release\06.Calculate2.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\Loops\06.Calculate2\obj\Release\06.Calculate2.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\Loops\06.Calculate2\obj\Release\06.Calculate2.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\Loops\06.Calculate2\obj\Release\06.Calculate2.pdb
