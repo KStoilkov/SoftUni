@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class SumTwoNumbers {
+public class _6_SumTwoNumbers {
 	public static void main(String[] args) {
 		
 		Scanner reader = new Scanner(System.in);

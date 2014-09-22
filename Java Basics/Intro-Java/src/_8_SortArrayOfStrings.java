@@ -4,7 +4,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class SortArrayOfStrings {
+public class _8_SortArrayOfStrings {
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);
 		

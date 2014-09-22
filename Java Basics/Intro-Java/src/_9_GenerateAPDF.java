@@ -11,7 +11,7 @@ import com.itextpdf.text.pdf.BaseFont;
 
 import java.io.FileOutputStream;
 
-public class GenerateAPDF {
+public class _9_GenerateAPDF {
 	public static void main(String[] args) {
 		Document doc = new Document();
 		try {
