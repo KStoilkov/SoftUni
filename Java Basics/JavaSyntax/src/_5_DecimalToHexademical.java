@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class DecimalToHexademical {
+public class _5_DecimalToHexademical {
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);

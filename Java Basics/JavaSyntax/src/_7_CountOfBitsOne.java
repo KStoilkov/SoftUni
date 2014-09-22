@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class CountOfBitsOne {
+public class _7_CountOfBitsOne {
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);

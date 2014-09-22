@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class FormattingNumbers {
+public class _6_FormattingNumbers {
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);

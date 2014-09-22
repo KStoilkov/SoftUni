@@ -3,7 +3,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class TheSmallestOf3Numbers {	
+public class _4_TheSmallestOf3Numbers {	
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);

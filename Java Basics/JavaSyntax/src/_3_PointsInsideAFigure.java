@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class PointsInsideAFigure {	
+public class _3_PointsInsideAFigure {	
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);
