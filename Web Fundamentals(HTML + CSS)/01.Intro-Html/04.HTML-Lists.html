@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>HTML Lists</title>
+    <style>
+        body{
+            font-size: 20pt;
+        }
+        li {
+            padding: 3px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <p>Preceding text</p>
+</header>
+    <ol type="I">
+        <li>List item</li>
+        <ol type="a">
+            <li> Nested item 1.1</li>
+            <li> Nested item 1.2</li>
+        </ol>
+            <li>List item 2</li>
+        <ol type="1">
+            <li>Nested item 2.1</li>
+            <li>Nested item 2.2</li>
+            <ul type="circle">
+                <li>Nested item 2.2.1</li>
+                <li>Nested item 2.2.2</li>
+                <ul type="square">
+                    <li>Nested item 2.2.2.1</li>
+                    <li>NestedItem 2.2.2.2</li>
+                </ul>
+                <li>Nested item 2.2.3</li>
+            </ul>
+            <li>Nested item2.3</li>
+        </ol>
+        <li>List item 3</li>
+        <ul type="disc">
+            <li>Nested item 3.1</li>
+            <li>nested item 3.3</li>
+            <li>Nested item 3.3</li>
+        </ul>
+    </ol>
+</body>
+</html>
