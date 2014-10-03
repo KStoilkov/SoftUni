@@ -1,10 +1,87 @@
 <!DOCTYPE html>
 <html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title>Powerpoint Slide</title>
+<head>
+    <meta charset="utf-8">
+    <title>PowerPoint Slide</title>
+    <style>
+        body {
+            width: 800px;
+            height: 470px;
+            background-image: url(pics/background.jpg);
+            background-size: 800px 470px;
+            background-repeat: no-repeat;
+            font-family: calibri;
+            color: #fff;
+        }
+        h1 {
+            float: left;
+            color: #F2BE5F;
+            font-size: 28px;
+            margin-top: 12px;
+        }
+        h3 {
+            color: #fff;
+            font-weight: 100;
+        }
+        img {
+            float:right;
+            margin-right: 20px;
+            margin-top: 8px;
+        }
+        #section {
+            clear: both;
+        }
+        .inner {
+            background-color: rgba(31, 30, 28, 0.6);
+            width: 85%;
+            border: 1px solid #B6B09F;
+            padding: 5px;
+            margin-left: 15px;
+            color: #fbeec9;
+            font-weight: 500;
+            font-size: 17px;
+        }
+        .inner:last-of-type {
+            margin-top: 20px;
+        }
+        ul {
+            color: #f2b254;
+            list-style-type: square;
+        }
+        span {
+            color: #f3cc5f;
+        }
+    </style>
 </head>
 <body>
-
+<div id="container">
+    <div id="header">
+        <h1>Headings and Paragraphs</h1>
+    </div>
+    <div id="section">
+        <ul>
+            <li><h3>Heading Tags: <span>&lt;h1&gt;</span> - <span>&lt;h6&gt;</span></h3>
+                <div class="inner">
+                    &lt;h1&gt;Heading 1&lt;/h1&gt;<br />
+                    &lt;h2&gt;Sub heading 2&lt;/h2&gt;<br />
+                    &lt;h3&gt;Sub heading 3&lt;/h3&gt;<br />
+                </div>
+            </li>
+            <li><h3>Paragraph Tags: <span>&lt;p&gt;</span></h3>
+                <div class="inner">
+                    &lt;p&gt;This is my first paragraph&lt;/p&gt;<br />
+                    &lt;p&gt;This is my second paragraph&lt;/p&gt;<br />
+                </div>
+            </li>
+            <li><h3>Sections: <span>&lt;div&gt;</span> and <span>&lt;span&gt;</span></h3>
+                <div class="inner">
+                    &lt;div&gt; style="background: skyblue;"&gt;<br />
+                    This is a div<br />
+                    &lt;/div&gt;<br />
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
 </body>
 </html>
