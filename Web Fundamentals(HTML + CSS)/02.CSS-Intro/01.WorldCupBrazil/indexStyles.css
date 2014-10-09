@@ -1,0 +1,95 @@
+@import "flags.css";
+
+* {
+    margin:0;
+    padding:0;
+}
+.container {
+    padding: 10px;
+    display: inline-block;
+    background-color: #00953F;
+}
+td {
+    border: 1px solid black;
+}
+table thead td:nth-child(1) {
+    border-top-left-radius: 15px;
+}
+table thead td:nth-child(5) {
+    border-top-right-radius: 15px;
+}
+td.border1 {
+    border-bottom-left-radius: 15px;
+}
+td.border2 {
+    border-bottom-right-radius: 15px;
+}
+table {
+    border-spacing: 0;
+}
+
+table thead td{
+    background-color: #FFCF0F;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16pt;
+}
+tr td {
+    background-color: #FFFFFF;
+    font-family: "Verdana";
+    font-size: 12pt;
+    padding: 8px;
+}
+tr.grayBackground td {
+    background-color: #CECECE;
+}
+.country1, .country2 {
+    width: 175px;
+}
+tr td:nth-child(1) {
+    text-align: right;
+}
+tr td:nth-child(2) {
+    text-align: center;
+}
+tr td:nth-child(4) {
+    text-align: center;
+}
+tr td:nth-child(5) {
+    text-align: right;
+    width: 150px
+}
+tr td:nth-child(7) {
+    width: 150px;
+}
+thead  td.placeabet {
+    text-align: center;
+}
+tr td:nth-child(6) {
+    font-size: 6pt;
+}
+input[type="button"] {
+    padding: 10px 5px 10px;
+    border-radius: 100px;
+    background-color: #FF0000;
+    color: #FFFFFF;
+}
+input[type="button"].lastButton {
+    background-color: #008400;
+}
+input[type="button"]:hover {
+    box-shadow: 0 0 7px #FF0000;
+}
+input[type="button"].lastButton:hover {
+    box-shadow: 0 0 7px #008400;
+}
+select {
+    width: 35px;
+    height: 30px;
+    background-color:#E2E2E2;
+    color: #FF2E43;
+}
+.diffSelect {
+    background-color: #FFFFFF;
+    color: #3A914C;
+}
