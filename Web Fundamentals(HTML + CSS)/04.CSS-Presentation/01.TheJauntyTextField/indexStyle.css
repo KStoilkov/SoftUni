@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding:0;
+}
+#container {
+    font-family: Tahoma;
+    margin:20px;
+    width: 700px;
+    height: 250px;
+    border-left: 10px dashed red;
+    border-top: 10px dotted yellow;
+    border-right: 10px solid green;
+    border-bottom: 10px double blue;
+    box-shadow: 20px 20px 10px #434343;
+    position: absolute;
+}
+h1{
+    font-weight:normal;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 10px 10px 10px gray;
+    font-size: 38pt;
+}
+.firstDiv {
+    border: 3px solid blue;
+    border-radius: 150px;
+    margin-top:20px;
+    margin-left:40px;
+    margin-right:40px;
+}
+.secDiv {
+    border: 3px solid green;
+    border-radius: 150px;
+}
+.thirdDiv {
+    border: 3px solid yellow;
+    border-radius: 150px;
+}
+.fourthDiv {
+    border: 3px solid red;
+    border-radius: 150px;
+    padding-top: 25px;
+    padding-bottom:25px;
+}
+h3{
+    font-weight:normal;
+    text-align: center;
+    margin-top: -15px;
+    text-shadow: 10px 10px 10px gray;
+}
+form {
+    text-align: center;
+    margin-top:20px;
+}
+input[type="text"] {
+    padding: 2px;
+    text-align:center;
+    background-color: #DE971C;
+    border: 2px outset #A96D00;
+    cursor: pointer;
+}
+.firstGrayDiv {
+    position: absolute;
+    width:25px;
+    height:25px;
+    border-radius: 150px;
+    background-color:gray;
+    opacity:0.7;
+    margin-left: 510px;
+    margin-top: -80px;
+}
+.secGrayDiv {
+    position: absolute;
+    width:35px;
+    height:35px;
+    border-radius: 150px;
+    background-color:gray;
+    opacity:0.7;
+    margin-left: 600px;
+    margin-top: -135px;
+}
+.thirdGrayDiv {
+    position: absolute;
+    width:95px;
+    height:65px;
+    border-radius: 50px;
+    background-color:gray;
+    opacity:0.7;
+    margin-left: 670px;
+    margin-top: -200px;
+}
+.firstInsideDiv {
+     padding:5px;
+     margin-top: 10%;
+     margin-left: 10%;
+     width:20%;
+     height:20%;
+     border: 2px dashed white;
+     border-radius: 150px;
+ }
+.secInsideDiv {
+     padding:5px;
+     margin-top: 12%;
+     margin-left: 12%;
+     width:35%;
+     height:35%;
+     border: 2px dashed white;
+     border-radius: 150px;
+ }
+.thirdInsideDiv {
+     padding:5px;
+     margin-top: 5%;
+     margin-left: 5%;
+     width:70px;
+     height:40px;
+     border: 2px dashed white;
+     border-radius: 150px;
+     text-align:center;
+     color: white;
+     font-weight:bold;
+ }
