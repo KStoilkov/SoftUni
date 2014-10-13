@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+table {
+    margin: 20px;
+    width: 350px;
+    height: 200px;
+}
+td {
+    padding: 2px;
+}
+td, table, th {
+    border: 1px solid black;
+}
+tfoot tr td {
+    text-align: right;
+}
