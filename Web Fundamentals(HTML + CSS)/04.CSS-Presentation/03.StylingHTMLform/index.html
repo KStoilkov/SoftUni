@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Styling a HTML Form</title>
+    <link rel="stylesheet" href="indexStyles.css"/>
+</head>
+<body>
+    <div id="container">
+        <form method="post">
+            <div class="yourDetails">
+                <h1>Step 1:Your details</h1>
+                <ul>
+                    <li>
+                        <label for="name">Name</label>
+                        <input type="text" id="name" placeholder="First and last name"/>
+                    </li>
+                    <li>
+                        <label for="email">Email</label>
+                        <input type="email" id="email" placeholder="example@domain.com"/>
+                    </li>
+                    <li>
+                        <label for="phone">Phone</label>
+                        <input type="tel" id="phone" placeholder="eg.+447500000000"/>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="DeliveryAddress">
+                <h1>Step 1:Delivery address</h1>
+                <ul>
+                    <li>
+                        <label for="address" class="address">Address</label>
+                        <textarea id="address"></textarea>
+                    </li>
+                    <li>
+                        <label for="postCode">Post code</label>
+                        <input type="text" id="postCode"/>
+                    </li>
+                    <li>
+                        <label for="country">Country</label>
+                        <input type="text" id="country"/>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="Card details">
+                <h1>Step 1:Card details</h1>
+                <ul>
+                    <li>
+                        <label for="visa" class="cardsLabel">Card type</label>
+                        <div class="cards">
+                            <input type="radio" name="card" value="VISA" id="visa"/>
+                            <label for="visa"><img src="imgs/visa.PNG"/>VISA</label>
+                            <input type="radio" name="card" value="AmEx" id="amex"/>
+                            <label for="amex"><img src="imgs/amex.PNG"/>AmEx</label>
+                            <input type="radio" name="card" value="Mastercard" id="master"/>
+                            <label for="master"><img src="imgs/mastercard.PNG"/>Mastercard</label>
+                        </div>
+                    </li>
+                    <li>
+                        <label for="cardNum">Card number</label>
+                        <input type="text" id="cardNum"/>
+                    </li>
+                    <li>
+                        <label for="securityCode">Security code</label>
+                        <input type="text" id="securityCode"/>
+                    </li>
+                    <li>
+                        <label for="nameOnCard">Name on card</label>
+                        <input type="text" id="nameOnCard" placeholder="exact name as on the card"/>
+                    </li>
+                </ul>
+                <input type="submit" value="BUY IT!"/>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
