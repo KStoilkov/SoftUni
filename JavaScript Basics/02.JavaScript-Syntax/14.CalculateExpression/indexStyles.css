@@ -1,0 +1,38 @@
+#container {
+    margin: auto;
+    width:500px;
+    margin-top: 20px;
+    box-shadow: 0 0 50px #333;
+}
+#input {
+    width: 100%;
+    height: 30px;
+    background-color: #DDDDDD;
+    border-radius: 2px;
+    border: none;
+    text-align: center;
+}
+button {
+    width: 50%;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25%;
+    background-color: yellow;
+    border: 1px solid yellow;
+    box-shadow: 0 0 10px #000;
+}
+button:hover {
+    box-shadow: 0 0 30px #000;
+}
+#result {
+    width: 100%;
+    height: 30px;
+    background-color: #DDDDDD;
+    border-radius: 2px;
+    border: none;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 0;
+    font-size: 25px;
+}
