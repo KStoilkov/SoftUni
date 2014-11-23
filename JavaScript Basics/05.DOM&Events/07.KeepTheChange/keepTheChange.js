@@ -23,3 +23,13 @@ function calculateTip(arr){
     }
     console.log(tip.toFixed(2));
 }
+
+calculateTip(
+    ['120.44','happy']
+);
+calculateTip(
+    ['1230.83','drunk']
+);
+calculateTip(
+    ['716','bored']
+);
