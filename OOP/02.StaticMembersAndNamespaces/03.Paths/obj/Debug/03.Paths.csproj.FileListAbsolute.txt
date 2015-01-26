@@ -1,0 +1,10 @@
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\03.Paths\bin\Debug\03.Paths.exe.config
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\03.Paths\obj\Debug\03.Paths.csprojResolveAssemblyReference.cache
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\03.Paths\bin\Debug\03.Paths.exe
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\03.Paths\bin\Debug\03.Paths.pdb
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\03.Paths\bin\Debug\01.Point3d.exe
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\03.Paths\bin\Debug\02.DistanceCalculator.exe
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\03.Paths\bin\Debug\01.Point3d.pdb
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\03.Paths\bin\Debug\02.DistanceCalculator.pdb
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\03.Paths\obj\Debug\03.Paths.exe
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\03.Paths\obj\Debug\03.Paths.pdb
