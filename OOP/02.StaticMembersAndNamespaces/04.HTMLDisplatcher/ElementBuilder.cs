@@ -5,9 +5,8 @@
     public class ElementBuilder
     {
         private string elementName;
-        private int attributesLength = 0;
-        private int contentLength = 0;
-        private string htmlTag;
+        private string attributes;
+        private string content;
 
         public string ElementName 
         {
@@ -25,83 +24,43 @@
             }
         }
 
-        public int AttributesLength 
+        public string Attributes
         {
             get
             {
-                return this.attributesLength;
+                return this.attributes;
             }
             private set
             {
-                if (value < 0)
-                {
-                    throw new ArgumentOutOfRangeException("Attributes Length cannot be less than 0.");
-                }
-                this.attributesLength = value;
+                this.attributes = value;
             }
         }
 
-        public string HtmlTag 
+        public string Content
         {
             get
             {
-                return this.htmlTag;
+                return this.content;
             }
             private set
             {
-                this.htmlTag = value;
-            }
-        }
-
-        public int ContentLength 
-        {
-            get
-            {
-                return this.contentLength;
-            }
-            private set
-            {
-                this.contentLength = value;
+                this.content = value;
             }
         }
 
         public ElementBuilder(string elementName)
         {
             this.ElementName = elementName;
-            this.HtmlTag = "<" + elementName + ">" + "</" + elementName + ">";
         }
 
         public void AddAtribute(string attribute, string value) 
         {
-            string attributeToAdd = " " + attribute + "=\"" + value + "\"";
-
-            string htmlTagCreator = this.HtmlTag.Substring(
-                0, 1 + this.ElementName.Length + 
-                this.AttributesLength);
-
-            string htmlHolder = this.HtmlTag.Substring(htmlTagCreator.Length,
-                this.HtmlTag.Length - htmlTagCreator.Length);
-
-            htmlTagCreator += attributeToAdd;
-
-            htmlTagCreator += htmlHolder;
-
-            this.AttributesLength += attributeToAdd.Length;
-
-            this.HtmlTag = htmlTagCreator;
+            this.Attributes += " " + attribute + "=\"" + value + "\""; 
         }
 
         public void AddContent(string content)
         {
-            string contentCreator = this.HtmlTag.Substring(
-                0, 2 + this.AttributesLength + this.ElementName.Length + 
-                this.ContentLength);
-
-            this.ContentLength += content.Length;
-
-            contentCreator += content + "</" + this.ElementName + ">";
-
-            this.HtmlTag = contentCreator;
+            this.content += content;
         }
 
         public static string operator *(ElementBuilder element, int n)
@@ -116,7 +75,9 @@
 
         public override string ToString()
         {
-            return string.Format(this.HtmlTag);
+            return string.Format(
+                "<" + this.ElementName + this.Attributes + ">" + 
+                this.Content + "</" + this.ElementName + ">");
         }
     }
 }
