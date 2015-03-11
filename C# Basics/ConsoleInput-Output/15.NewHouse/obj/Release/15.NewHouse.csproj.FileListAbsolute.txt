@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\15.NewHouse\bin\Release\15.NewHouse.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\15.NewHouse\bin\Release\15.NewHouse.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\15.NewHouse\bin\Release\15.NewHouse.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\15.NewHouse\obj\Release\15.NewHouse.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\15.NewHouse\obj\Release\15.NewHouse.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\15.NewHouse\obj\Release\15.NewHouse.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\01.From1toN\bin\Release\01.From1toN.exe.config
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\01.From1toN\bin\Release\01.From1toN.exe
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\01.From1toN\bin\Release\01.From1toN.pdb
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\01.From1toN\obj\Release\01.From1toN.csprojResolveAssemblyReference.cache
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\01.From1toN\obj\Release\01.From1toN.exe
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\01.From1toN\obj\Release\01.From1toN.pdb

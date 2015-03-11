@@ -1,5 +1,0 @@
-C:\Users\Kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
-C:\Users\Kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.exe
-C:\Users\Kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
-C:\Users\Kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\obj\Debug\07.PointInACircle.exe
-C:\Users\Kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\obj\Debug\07.PointInACircle.pdb

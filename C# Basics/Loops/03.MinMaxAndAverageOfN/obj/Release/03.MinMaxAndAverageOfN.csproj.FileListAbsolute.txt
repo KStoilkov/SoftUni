@@ -1,6 +1,0 @@
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\03.MinMaxAndAverageOfN\bin\Release\03.MinMaxAndAverageOfN.exe.config
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\03.MinMaxAndAverageOfN\bin\Release\03.MinMaxAndAverageOfN.exe
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\03.MinMaxAndAverageOfN\bin\Release\03.MinMaxAndAverageOfN.pdb
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\03.MinMaxAndAverageOfN\obj\Release\03.MinMaxAndAverageOfN.csprojResolveAssemblyReference.cache
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\03.MinMaxAndAverageOfN\obj\Release\03.MinMaxAndAverageOfN.exe
-c:\users\kiro\documents\visual studio 2012\Projects\Loops\03.MinMaxAndAverageOfN\obj\Release\03.MinMaxAndAverageOfN.pdb

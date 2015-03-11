@@ -1,5 +1,0 @@
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe.config
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.pdb
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.exe
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.pdb

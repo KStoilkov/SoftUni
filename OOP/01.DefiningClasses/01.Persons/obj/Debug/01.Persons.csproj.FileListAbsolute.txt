@@ -1,6 +1,0 @@
-c:\users\kiro\documents\visual studio 2013\Projects\01.DefiningClasses\01.Persons\bin\Debug\01.Persons.exe.config
-c:\users\kiro\documents\visual studio 2013\Projects\01.DefiningClasses\01.Persons\obj\Debug\01.Persons.csprojResolveAssemblyReference.cache
-c:\users\kiro\documents\visual studio 2013\Projects\01.DefiningClasses\01.Persons\bin\Debug\01.Persons.exe
-c:\users\kiro\documents\visual studio 2013\Projects\01.DefiningClasses\01.Persons\bin\Debug\01.Persons.pdb
-c:\users\kiro\documents\visual studio 2013\Projects\01.DefiningClasses\01.Persons\obj\Debug\01.Persons.exe
-c:\users\kiro\documents\visual studio 2013\Projects\01.DefiningClasses\01.Persons\obj\Debug\01.Persons.pdb

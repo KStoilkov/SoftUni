@@ -1,8 +1,0 @@
-C:\Users\Kikata\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\bin\Debug\09.PrintASequence.exe.config
-C:\Users\Kikata\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\bin\Debug\09.PrintASequence.exe
-C:\Users\Kikata\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\bin\Debug\09.PrintASequence.pdb
-C:\Users\Kikata\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\obj\Debug\09.PrintASequence.exe
-C:\Users\Kikata\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\obj\Debug\09.PrintASequence.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\bin\Debug\09.PrintASequence.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\obj\Debug\09.PrintASequence.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\obj\Debug\09.PrintASequence.pdb

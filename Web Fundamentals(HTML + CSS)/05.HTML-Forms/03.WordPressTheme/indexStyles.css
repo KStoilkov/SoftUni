@@ -1,9 +1,0 @@
-
-form > span:last-child {
-    display: block;
-    padding-top: 10px;
-}
-form > span:last-child img {
-    vertical-align: middle;
-}
-

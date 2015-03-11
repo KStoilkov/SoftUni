@@ -1,5 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\05.ThirdDigitIs7\bin\Release\05.ThirdDigitIs7.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\05.ThirdDigitIs7\bin\Release\05.ThirdDigitIs7.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\05.ThirdDigitIs7\bin\Release\05.ThirdDigitIs7.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\05.ThirdDigitIs7\obj\Release\05.ThirdDigitIs7.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\05.ThirdDigitIs7\obj\Release\05.ThirdDigitIs7.pdb

@@ -1,6 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\17.CalculateGCD\bin\Release\17.CalculateGCD.exe.config
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\17.CalculateGCD\bin\Release\17.CalculateGCD.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\17.CalculateGCD\bin\Release\17.CalculateGCD.pdb
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\17.CalculateGCD\obj\Release\17.CalculateGCD.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\17.CalculateGCD\obj\Release\17.CalculateGCD.pdb
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\17.CalculateGCD\obj\Release\17.CalculateGCD.csprojResolveAssemblyReference.cache

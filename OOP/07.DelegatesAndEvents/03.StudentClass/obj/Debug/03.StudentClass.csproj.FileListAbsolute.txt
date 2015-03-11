@@ -1,6 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2013\Projects\07.DelegatesAndEvents\03.StudentClass\bin\Debug\03.StudentClass.exe.config
-C:\Users\Kiro\documents\visual studio 2013\Projects\07.DelegatesAndEvents\03.StudentClass\bin\Debug\03.StudentClass.exe
-C:\Users\Kiro\documents\visual studio 2013\Projects\07.DelegatesAndEvents\03.StudentClass\bin\Debug\03.StudentClass.pdb
-C:\Users\Kiro\documents\visual studio 2013\Projects\07.DelegatesAndEvents\03.StudentClass\obj\Debug\03.StudentClass.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\documents\visual studio 2013\Projects\07.DelegatesAndEvents\03.StudentClass\obj\Debug\03.StudentClass.exe
-C:\Users\Kiro\documents\visual studio 2013\Projects\07.DelegatesAndEvents\03.StudentClass\obj\Debug\03.StudentClass.pdb

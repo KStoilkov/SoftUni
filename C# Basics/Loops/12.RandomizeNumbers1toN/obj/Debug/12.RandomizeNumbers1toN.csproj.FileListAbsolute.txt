@@ -1,5 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\12.RandomizeNumbers1toN\bin\Debug\12.RandomizeNumbers1toN.exe.config
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\12.RandomizeNumbers1toN\bin\Debug\12.RandomizeNumbers1toN.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\12.RandomizeNumbers1toN\bin\Debug\12.RandomizeNumbers1toN.pdb
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\12.RandomizeNumbers1toN\obj\Debug\12.RandomizeNumbers1toN.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\12.RandomizeNumbers1toN\obj\Debug\12.RandomizeNumbers1toN.pdb

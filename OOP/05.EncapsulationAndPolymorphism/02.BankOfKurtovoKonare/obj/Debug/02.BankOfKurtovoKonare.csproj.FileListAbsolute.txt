@@ -1,5 +1,0 @@
-c:\users\kiro\documents\visual studio 2013\Projects\05.EncapsulationAndPolymorphism\02.BankOfKurtovoKonare\bin\Debug\02.BankOfKurtovoKonare.exe.config
-c:\users\kiro\documents\visual studio 2013\Projects\05.EncapsulationAndPolymorphism\02.BankOfKurtovoKonare\bin\Debug\02.BankOfKurtovoKonare.exe
-c:\users\kiro\documents\visual studio 2013\Projects\05.EncapsulationAndPolymorphism\02.BankOfKurtovoKonare\bin\Debug\02.BankOfKurtovoKonare.pdb
-c:\users\kiro\documents\visual studio 2013\Projects\05.EncapsulationAndPolymorphism\02.BankOfKurtovoKonare\obj\Debug\02.BankOfKurtovoKonare.exe
-c:\users\kiro\documents\visual studio 2013\Projects\05.EncapsulationAndPolymorphism\02.BankOfKurtovoKonare\obj\Debug\02.BankOfKurtovoKonare.pdb

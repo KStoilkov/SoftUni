@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\11.NumberAsWords\bin\Release\11.NumberAsWords.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\11.NumberAsWords\bin\Release\11.NumberAsWords.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\11.NumberAsWords\bin\Release\11.NumberAsWords.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\11.NumberAsWords\obj\Release\11.NumberAsWords.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\11.NumberAsWords\obj\Release\11.NumberAsWords.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\11.NumberAsWords\obj\Release\11.NumberAsWords.pdb

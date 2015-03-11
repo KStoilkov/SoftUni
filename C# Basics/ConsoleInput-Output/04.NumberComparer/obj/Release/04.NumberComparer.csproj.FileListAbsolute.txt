@@ -1,5 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\04.NumberComparer\bin\Release\04.NumberComparer.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\04.NumberComparer\bin\Release\04.NumberComparer.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\04.NumberComparer\bin\Release\04.NumberComparer.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\04.NumberComparer\obj\Release\04.NumberComparer.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\04.NumberComparer\obj\Release\04.NumberComparer.pdb

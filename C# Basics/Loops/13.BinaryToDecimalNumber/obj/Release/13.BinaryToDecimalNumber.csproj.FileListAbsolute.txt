@@ -1,6 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\13.BinaryToDecimalNumber\bin\Release\13.BinaryToDecimalNumber.exe.config
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\13.BinaryToDecimalNumber\bin\Release\13.BinaryToDecimalNumber.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\13.BinaryToDecimalNumber\bin\Release\13.BinaryToDecimalNumber.pdb
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\13.BinaryToDecimalNumber\obj\Release\13.BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\13.BinaryToDecimalNumber\obj\Release\13.BinaryToDecimalNumber.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\13.BinaryToDecimalNumber\obj\Release\13.BinaryToDecimalNumber.pdb

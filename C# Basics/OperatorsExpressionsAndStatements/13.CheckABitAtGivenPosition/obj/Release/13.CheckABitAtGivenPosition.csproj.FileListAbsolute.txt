@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Release\13.CheckABitAtGivenPosition.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Release\13.CheckABitAtGivenPosition.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Release\13.CheckABitAtGivenPosition.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Release\13.CheckABitAtGivenPosition.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Release\13.CheckABitAtGivenPosition.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Release\13.CheckABitAtGivenPosition.csprojResolveAssemblyReference.cache

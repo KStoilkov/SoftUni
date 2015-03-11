@@ -1,5 +1,0 @@
-C:\Users\Kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\17.Sunglasses2\bin\Debug\17.Sunglasses2.exe.config
-C:\Users\Kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\17.Sunglasses2\bin\Debug\17.Sunglasses2.exe
-C:\Users\Kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\17.Sunglasses2\bin\Debug\17.Sunglasses2.pdb
-C:\Users\Kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\17.Sunglasses2\obj\Debug\17.Sunglasses2.exe
-C:\Users\Kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\17.Sunglasses2\obj\Debug\17.Sunglasses2.pdb

@@ -1,6 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\02.Human, Student and Worker\bin\Debug\02.Human, Student and Worker.exe.config
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\02.Human, Student and Worker\bin\Debug\02.Human, Student and Worker.exe
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\02.Human, Student and Worker\bin\Debug\02.Human, Student and Worker.pdb
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\02.Human, Student and Worker\obj\Debug\02.Human, Student and Worker.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\02.Human, Student and Worker\obj\Debug\02.Human, Student and Worker.exe
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\02.Human, Student and Worker\obj\Debug\02.Human, Student and Worker.pdb

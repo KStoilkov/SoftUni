@@ -1,5 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\06.Four-DigitNumber\bin\Release\06.Four-DigitNumber.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\06.Four-DigitNumber\bin\Release\06.Four-DigitNumber.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\06.Four-DigitNumber\bin\Release\06.Four-DigitNumber.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\06.Four-DigitNumber\obj\Release\06.Four-DigitNumber.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\06.Four-DigitNumber\obj\Release\06.Four-DigitNumber.pdb

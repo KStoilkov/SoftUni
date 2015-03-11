@@ -1,5 +1,0 @@
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe.config
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\02.FractionCalculator\bin\Debug\02.FractionCalculator.pdb
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\02.FractionCalculator\obj\Debug\02.FractionCalculator.exe
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\02.FractionCalculator\obj\Debug\02.FractionCalculator.pdb

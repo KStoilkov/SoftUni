@@ -1,6 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\05.Calculate1\bin\Release\05.Calculate1.exe.config
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\05.Calculate1\bin\Release\05.Calculate1.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\05.Calculate1\bin\Release\05.Calculate1.pdb
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\05.Calculate1\obj\Release\05.Calculate1.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\05.Calculate1\obj\Release\05.Calculate1.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\05.Calculate1\obj\Release\05.Calculate1.pdb

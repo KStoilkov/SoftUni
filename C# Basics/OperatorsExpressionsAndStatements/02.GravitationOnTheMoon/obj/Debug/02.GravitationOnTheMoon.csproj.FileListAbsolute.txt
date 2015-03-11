@@ -1,5 +1,0 @@
-c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
-c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
-c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
-c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
-c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

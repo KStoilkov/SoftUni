@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\01.SumOf3Numbers\bin\Release\01.SumOf3Numbers.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\01.SumOf3Numbers\bin\Release\01.SumOf3Numbers.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\01.SumOf3Numbers\bin\Release\01.SumOf3Numbers.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\01.SumOf3Numbers\obj\Release\01.SumOf3Numbers.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\01.SumOf3Numbers\obj\Release\01.SumOf3Numbers.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\01.SumOf3Numbers\obj\Release\01.SumOf3Numbers.pdb

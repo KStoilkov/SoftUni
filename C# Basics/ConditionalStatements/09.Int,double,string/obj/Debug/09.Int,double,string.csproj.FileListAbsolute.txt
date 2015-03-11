@@ -1,5 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\09.Int,double,string\bin\Debug\09.Int,double,string.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\09.Int,double,string\bin\Debug\09.Int,double,string.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\09.Int,double,string\bin\Debug\09.Int,double,string.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\09.Int,double,string\obj\Debug\09.Int,double,string.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\09.Int,double,string\obj\Debug\09.Int,double,string.pdb

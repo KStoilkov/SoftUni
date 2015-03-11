@@ -1,8 +1,0 @@
-c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.config
-c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe
-c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.pdb
-c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\01.Point3d.exe
-c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\01.Point3d.pdb
-c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.csprojResolveAssemblyReference.cache
-c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.exe
-c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.pdb

@@ -1,5 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\07.Sort3Numbers\bin\Debug\07.Sort3Numbers.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\07.Sort3Numbers\bin\Debug\07.Sort3Numbers.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\07.Sort3Numbers\bin\Debug\07.Sort3Numbers.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\07.Sort3Numbers\obj\Debug\07.Sort3Numbers.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\07.Sort3Numbers\obj\Debug\07.Sort3Numbers.pdb

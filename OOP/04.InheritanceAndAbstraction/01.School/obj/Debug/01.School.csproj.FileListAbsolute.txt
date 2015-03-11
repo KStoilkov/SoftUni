@@ -1,6 +1,0 @@
-c:\users\kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\01.School\bin\Debug\01.School.exe.config
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\01.School\bin\Debug\01.School.exe
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\01.School\bin\Debug\01.School.pdb
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\01.School\obj\Debug\01.School.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\01.School\obj\Debug\01.School.exe
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\01.School\obj\Debug\01.School.pdb

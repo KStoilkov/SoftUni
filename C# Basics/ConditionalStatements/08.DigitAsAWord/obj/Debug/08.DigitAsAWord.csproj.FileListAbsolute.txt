@@ -1,5 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\08.DigitAsAWord\bin\Debug\08.DigitAsAWord.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\08.DigitAsAWord\bin\Debug\08.DigitAsAWord.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\08.DigitAsAWord\bin\Debug\08.DigitAsAWord.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\08.DigitAsAWord\obj\Debug\08.DigitAsAWord.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\08.DigitAsAWord\obj\Debug\08.DigitAsAWord.pdb

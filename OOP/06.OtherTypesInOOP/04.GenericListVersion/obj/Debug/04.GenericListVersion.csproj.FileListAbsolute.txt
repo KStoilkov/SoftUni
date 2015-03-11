@@ -1,8 +1,0 @@
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\04.GenericListVersion\bin\Debug\04.GenericListVersion.exe.config
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\04.GenericListVersion\bin\Debug\04.GenericListVersion.exe
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\04.GenericListVersion\bin\Debug\04.GenericListVersion.pdb
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\04.GenericListVersion\bin\Debug\03.GenericList.exe
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\04.GenericListVersion\bin\Debug\03.GenericList.pdb
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\04.GenericListVersion\obj\Debug\04.GenericListVersion.csprojResolveAssemblyReference.cache
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\04.GenericListVersion\obj\Debug\04.GenericListVersion.exe
-c:\users\kiro\documents\visual studio 2013\Projects\06.OtherTypesInOOP\04.GenericListVersion\obj\Debug\04.GenericListVersion.pdb

@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Release\02.GravitationOnTheMoon.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Release\02.GravitationOnTheMoon.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Release\02.GravitationOnTheMoon.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Release\02.GravitationOnTheMoon.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Release\02.GravitationOnTheMoon.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Release\02.GravitationOnTheMoon.pdb

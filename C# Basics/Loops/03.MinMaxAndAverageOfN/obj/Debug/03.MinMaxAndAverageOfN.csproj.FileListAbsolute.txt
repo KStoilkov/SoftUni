@@ -1,5 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\03.MinMaxAndAverageOfN\bin\Debug\03.MinMaxAndAverageOfN.exe.config
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\03.MinMaxAndAverageOfN\bin\Debug\03.MinMaxAndAverageOfN.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\03.MinMaxAndAverageOfN\bin\Debug\03.MinMaxAndAverageOfN.pdb
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\03.MinMaxAndAverageOfN\obj\Debug\03.MinMaxAndAverageOfN.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\03.MinMaxAndAverageOfN\obj\Debug\03.MinMaxAndAverageOfN.pdb

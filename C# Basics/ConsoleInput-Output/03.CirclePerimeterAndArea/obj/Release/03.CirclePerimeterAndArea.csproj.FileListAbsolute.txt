@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\03.CirclePerimeterAndArea\bin\Release\03.CirclePerimeterAndArea.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\03.CirclePerimeterAndArea\bin\Release\03.CirclePerimeterAndArea.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\03.CirclePerimeterAndArea\bin\Release\03.CirclePerimeterAndArea.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\03.CirclePerimeterAndArea\obj\Release\03.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\03.CirclePerimeterAndArea\obj\Release\03.CirclePerimeterAndArea.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\03.CirclePerimeterAndArea\obj\Release\03.CirclePerimeterAndArea.pdb

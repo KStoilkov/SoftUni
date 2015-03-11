@@ -1,6 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2013\Projects\03.ExceptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
-C:\Users\Kiro\documents\visual studio 2013\Projects\03.ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\documents\visual studio 2013\Projects\03.ExceptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
-C:\Users\Kiro\documents\visual studio 2013\Projects\03.ExceptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
-C:\Users\Kiro\documents\visual studio 2013\Projects\03.ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
-C:\Users\Kiro\documents\visual studio 2013\Projects\03.ExceptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb

@@ -1,6 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\04.CompanyHierarchy\bin\Debug\04.CompanyHierarchy.exe.config
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\04.CompanyHierarchy\obj\Debug\04.CompanyHierarchy.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\04.CompanyHierarchy\bin\Debug\04.CompanyHierarchy.exe
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\04.CompanyHierarchy\bin\Debug\04.CompanyHierarchy.pdb
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\04.CompanyHierarchy\obj\Debug\04.CompanyHierarchy.exe
-C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\04.CompanyHierarchy\obj\Debug\04.CompanyHierarchy.pdb

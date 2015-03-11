@@ -1,5 +1,0 @@
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

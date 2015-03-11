@@ -1,3 +1,0 @@
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Declare Variables\bin\Debug\Declare Variables.exe.config
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Declare Variables\obj\Debug\Declare Variables.exe
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Declare Variables\obj\Debug\Declare Variables.pdb

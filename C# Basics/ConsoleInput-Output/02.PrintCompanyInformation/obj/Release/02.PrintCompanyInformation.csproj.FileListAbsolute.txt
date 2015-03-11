@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\02.PrintCompanyInformation\bin\Release\02.PrintCompanyInformation.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\02.PrintCompanyInformation\bin\Release\02.PrintCompanyInformation.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\02.PrintCompanyInformation\bin\Release\02.PrintCompanyInformation.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\02.PrintCompanyInformation\obj\Release\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\02.PrintCompanyInformation\obj\Release\02.PrintCompanyInformation.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\02.PrintCompanyInformation\obj\Release\02.PrintCompanyInformation.pdb

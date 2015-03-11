@@ -1,3 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintYourName\bin\Release\PrintYourName.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintYourName\obj\Release\PrintYourName.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintYourName\obj\Release\PrintYourName.pdb

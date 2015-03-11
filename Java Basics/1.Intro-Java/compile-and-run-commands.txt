@@ -1,3 +1,0 @@
-C:\>cd Users\myusername\Desktop\JavaBasics\workspace\Intro-Java-Homework\src
-C:\Users\myusername\Desktop\JavaBasics\workspace\Intro-Java-Homework\src>javac SumTwoNumbers.java
-C:\Users\myusername\Desktop\JavaBasics\workspace\Intro-Java-Homework\src>java SumTwoNumbers

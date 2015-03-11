@@ -1,5 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

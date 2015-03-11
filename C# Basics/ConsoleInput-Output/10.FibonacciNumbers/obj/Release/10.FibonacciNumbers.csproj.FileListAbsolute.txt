@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\10.FibonacciNumbers\bin\Release\10.FibonacciNumbers.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\10.FibonacciNumbers\bin\Release\10.FibonacciNumbers.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\10.FibonacciNumbers\bin\Release\10.FibonacciNumbers.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\10.FibonacciNumbers\obj\Release\10.FibonacciNumbers.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\10.FibonacciNumbers\obj\Release\10.FibonacciNumbers.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\10.FibonacciNumbers\obj\Release\10.FibonacciNumbers.csprojResolveAssemblyReference.cache

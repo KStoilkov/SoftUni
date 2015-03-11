@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\04.MultiplicationSign\bin\Release\04.MultiplicationSign.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\04.MultiplicationSign\bin\Release\04.MultiplicationSign.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\04.MultiplicationSign\bin\Release\04.MultiplicationSign.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\04.MultiplicationSign\obj\Release\04.MultiplicationSign.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\04.MultiplicationSign\obj\Release\04.MultiplicationSign.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\04.MultiplicationSign\obj\Release\04.MultiplicationSign.pdb

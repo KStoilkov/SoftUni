@@ -1,5 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\ReformatCSharpCode\bin\Release\ReformatCSharpCode.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\ReformatCSharpCode\bin\Release\ReformatCSharpCode.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\ReformatCSharpCode\bin\Release\ReformatCSharpCode.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\ReformatCSharpCode\obj\Release\ReformatCSharpCode.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\ReformatCSharpCode\obj\Release\ReformatCSharpCode.pdb

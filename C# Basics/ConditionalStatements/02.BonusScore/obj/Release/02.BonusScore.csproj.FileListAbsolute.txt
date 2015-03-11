@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\02.BonusScore\bin\Release\02.BonusScore.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\02.BonusScore\bin\Release\02.BonusScore.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\02.BonusScore\bin\Release\02.BonusScore.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\02.BonusScore\obj\Release\02.BonusScore.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\02.BonusScore\obj\Release\02.BonusScore.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\02.BonusScore\obj\Release\02.BonusScore.pdb

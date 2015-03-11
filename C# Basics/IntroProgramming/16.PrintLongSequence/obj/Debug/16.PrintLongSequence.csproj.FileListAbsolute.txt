@@ -1,2 +1,0 @@
-C:\Users\Kikata\Documents\Visual Studio 2012\Projects\IntroProgramming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config

@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Release\09.Trapezoids.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Release\09.Trapezoids.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Release\09.Trapezoids.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\09.Trapezoids\obj\Release\09.Trapezoids.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\09.Trapezoids\obj\Release\09.Trapezoids.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\09.Trapezoids\obj\Release\09.Trapezoids.pdb

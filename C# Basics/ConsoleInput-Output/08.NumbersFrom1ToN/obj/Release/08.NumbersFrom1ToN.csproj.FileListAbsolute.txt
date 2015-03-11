@@ -1,5 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\08.NumbersFrom1ToN\bin\Release\08.NumbersFrom1ToN.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\08.NumbersFrom1ToN\bin\Release\08.NumbersFrom1ToN.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\08.NumbersFrom1ToN\bin\Release\08.NumbersFrom1ToN.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\08.NumbersFrom1ToN\obj\Release\08.NumbersFrom1ToN.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\08.NumbersFrom1ToN\obj\Release\08.NumbersFrom1ToN.pdb

@@ -1,6 +1,0 @@
-c:\users\kiro\documents\visual studio 2013\Projects\05.EncapsulationAndPolymorphism\01.Shapes\bin\Debug\01.Shapes.exe.config
-c:\users\kiro\documents\visual studio 2013\Projects\05.EncapsulationAndPolymorphism\01.Shapes\bin\Debug\01.Shapes.exe
-c:\users\kiro\documents\visual studio 2013\Projects\05.EncapsulationAndPolymorphism\01.Shapes\bin\Debug\01.Shapes.pdb
-c:\users\kiro\documents\visual studio 2013\Projects\05.EncapsulationAndPolymorphism\01.Shapes\obj\Debug\01.Shapes.csprojResolveAssemblyReference.cache
-c:\users\kiro\documents\visual studio 2013\Projects\05.EncapsulationAndPolymorphism\01.Shapes\obj\Debug\01.Shapes.exe
-c:\users\kiro\documents\visual studio 2013\Projects\05.EncapsulationAndPolymorphism\01.Shapes\obj\Debug\01.Shapes.pdb

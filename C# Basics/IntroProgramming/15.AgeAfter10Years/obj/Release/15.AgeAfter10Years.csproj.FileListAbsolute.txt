@@ -1,5 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\15.AgeAfter10Years\bin\Release\15.AgeAfter10Years.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\15.AgeAfter10Years\bin\Release\15.AgeAfter10Years.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\15.AgeAfter10Years\bin\Release\15.AgeAfter10Years.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\15.AgeAfter10Years\obj\Release\15.AgeAfter10Years.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\15.AgeAfter10Years\obj\Release\15.AgeAfter10Years.pdb

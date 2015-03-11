@@ -1,5 +1,0 @@
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
-c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb

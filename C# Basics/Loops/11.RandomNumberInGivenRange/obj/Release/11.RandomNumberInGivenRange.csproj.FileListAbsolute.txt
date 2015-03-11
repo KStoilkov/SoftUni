@@ -1,6 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\11.RandomNumberInGivenRange\bin\Release\11.RandomNumberInGivenRange.exe.config
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\11.RandomNumberInGivenRange\bin\Release\11.RandomNumberInGivenRange.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\11.RandomNumberInGivenRange\bin\Release\11.RandomNumberInGivenRange.pdb
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\11.RandomNumberInGivenRange\obj\Release\11.RandomNumberInGivenRange.csprojResolveAssemblyReference.cache
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\11.RandomNumberInGivenRange\obj\Release\11.RandomNumberInGivenRange.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\11.RandomNumberInGivenRange\obj\Release\11.RandomNumberInGivenRange.pdb

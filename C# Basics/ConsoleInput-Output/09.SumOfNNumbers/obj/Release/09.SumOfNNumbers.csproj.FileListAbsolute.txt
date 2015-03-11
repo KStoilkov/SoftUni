@@ -1,5 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\09.SumOfNNumbers\bin\Release\09.SumOfNNumbers.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\09.SumOfNNumbers\bin\Release\09.SumOfNNumbers.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\09.SumOfNNumbers\bin\Release\09.SumOfNNumbers.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\09.SumOfNNumbers\obj\Release\09.SumOfNNumbers.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\09.SumOfNNumbers\obj\Release\09.SumOfNNumbers.pdb

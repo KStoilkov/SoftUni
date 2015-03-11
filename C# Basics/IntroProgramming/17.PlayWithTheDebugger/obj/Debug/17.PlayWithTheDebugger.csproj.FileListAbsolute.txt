@@ -1,2 +1,0 @@
-C:\Users\Kikata\Documents\Visual Studio 2012\Projects\IntroProgramming\17.PlayWithTheDebugger\bin\Debug\17.PlayWithTheDebugger.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\17.PlayWithTheDebugger\bin\Debug\17.PlayWithTheDebugger.exe.config

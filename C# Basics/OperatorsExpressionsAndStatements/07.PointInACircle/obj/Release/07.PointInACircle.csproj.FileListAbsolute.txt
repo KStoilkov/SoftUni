@@ -1,5 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\bin\Release\07.PointInACircle.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\bin\Release\07.PointInACircle.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\bin\Release\07.PointInACircle.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\obj\Release\07.PointInACircle.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\obj\Release\07.PointInACircle.pdb

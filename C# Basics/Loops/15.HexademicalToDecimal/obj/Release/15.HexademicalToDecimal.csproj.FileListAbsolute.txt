@@ -1,6 +1,0 @@
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\15.HexademicalToDecimal\bin\Release\15.HexademicalToDecimal.exe.config
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\15.HexademicalToDecimal\bin\Release\15.HexademicalToDecimal.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\15.HexademicalToDecimal\bin\Release\15.HexademicalToDecimal.pdb
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\15.HexademicalToDecimal\obj\Release\15.HexademicalToDecimal.exe
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\15.HexademicalToDecimal\obj\Release\15.HexademicalToDecimal.pdb
-C:\Users\Kiro\documents\visual studio 2012\Projects\Loops\15.HexademicalToDecimal\obj\Release\15.HexademicalToDecimal.csprojResolveAssemblyReference.cache

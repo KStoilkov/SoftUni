@@ -1,6 +1,0 @@
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\bin\Debug\13.WorkHours.exe.config
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\bin\Debug\13.WorkHours.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\bin\Debug\13.WorkHours.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\obj\Debug\13.WorkHours.exe
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\obj\Debug\13.WorkHours.pdb
-C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\13.WorkHours\obj\Debug\13.WorkHours.csprojResolveAssemblyReference.cache
