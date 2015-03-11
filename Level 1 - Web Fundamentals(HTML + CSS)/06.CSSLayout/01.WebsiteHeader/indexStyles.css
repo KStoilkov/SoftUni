@@ -1,0 +1,104 @@
+* {
+    margin:0;
+    padding: 0;
+}
+body {
+    font-size: 10pt;
+    font-family:sans-serif;
+}
+header {
+    display: block;
+    background-color: #234667;
+    padding: 5px;
+}
+#container {
+    margin: 0 auto;
+    width: 1000px;
+    background-color: #234667;
+}
+#logo {
+    margin-top: 5px;
+    float: left;
+}
+#logo img {
+    width: 250px;
+    height: 75px;
+}
+#logo , nav {
+    display: inline-block;
+}
+#top {
+    text-align: right;
+    float: right;
+    padding: 6px;
+    margin-top: 2px;
+}
+#top span {
+    color: white;
+    vertical-align: middle;
+}
+#top a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    vertical-align: middle;
+}
+#top a:hover {
+    background-color: orange;
+    border-radius: 5px;
+}
+#top img{
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+}
+#top input[type="text"]{
+    width: 150px;
+    height:25px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: none;
+    vertical-align: middle;
+    margin-right: -3px;
+}
+.search {
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    cursor: pointer;
+}
+.bell, span {
+    cursor: pointer;
+}
+#bottom {
+    float: right;
+    padding: 6px;
+    clear: both;
+}
+#bottom > ul > li{
+    display: inline-block;
+    padding: 5px;
+}
+#bottom ul li ul {
+    display: none;
+}
+#bottom ul li ul li {
+    padding: 5px 45px 5px 10px;
+}
+#bottom ul li:hover ul {
+    display: block;
+    position: absolute;
+    list-style: none;
+    background-color: #234667;
+    border-radius: 5px;
+    margin-left: -5px;
+    margin-top: 5px;
+}
+#bottom ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+#bottom li:hover {
+    background-color: orange;
+    border-radius: 5px;
+}

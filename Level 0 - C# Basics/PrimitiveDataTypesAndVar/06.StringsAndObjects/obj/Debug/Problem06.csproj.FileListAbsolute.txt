@@ -1,0 +1,5 @@
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Problem06\bin\Debug\Problem06.exe.config
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Problem06\bin\Debug\Problem06.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Problem06\bin\Debug\Problem06.pdb
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Problem06\obj\Debug\Problem06.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Problem06\obj\Debug\Problem06.pdb

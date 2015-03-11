@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.DefiningClasses\02.Laptops\bin\Debug\02.Laptops.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.DefiningClasses\02.Laptops\bin\Debug\02.Laptops.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.DefiningClasses\02.Laptops\bin\Debug\02.Laptops.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.DefiningClasses\02.Laptops\obj\Debug\02.Laptops.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.DefiningClasses\02.Laptops\obj\Debug\02.Laptops.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.DefiningClasses\02.Laptops\obj\Debug\02.Laptops.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintNumbers\bin\Release\PrintNumbers.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintNumbers\bin\Release\PrintNumbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintNumbers\bin\Release\PrintNumbers.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintNumbers\obj\Release\PrintNumbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\PrintNumbers\obj\Release\PrintNumbers.pdb

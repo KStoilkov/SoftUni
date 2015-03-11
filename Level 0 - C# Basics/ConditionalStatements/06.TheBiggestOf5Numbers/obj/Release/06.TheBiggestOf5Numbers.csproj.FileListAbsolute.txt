@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\06.TheBiggestOf5Numbers\bin\Release\06.TheBiggestOf5Numbers.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\06.TheBiggestOf5Numbers\bin\Release\06.TheBiggestOf5Numbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\06.TheBiggestOf5Numbers\bin\Release\06.TheBiggestOf5Numbers.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\06.TheBiggestOf5Numbers\obj\Release\06.TheBiggestOf5Numbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\06.TheBiggestOf5Numbers\obj\Release\06.TheBiggestOf5Numbers.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\06.TheBiggestOf5Numbers\obj\Release\06.TheBiggestOf5Numbers.csprojResolveAssemblyReference.cache

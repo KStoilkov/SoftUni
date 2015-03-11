@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#container {
+    background-color: #234667;
+    padding: 20px;
+    float: left;
+}
+#inside {
+    margin: 15px;
+}
+#firstpart, #secondPart, #thirdPart, #fourthPart {
+    margin: 20px;
+    float: left;
+}
+input[type="button"] {
+    width:130px;
+    height: 40px;
+    display: block;
+    margin: 5px;
+    background-color: #234667;
+    border: 1px solid orange;
+    color: white;
+}
+input[type="button"]:hover {
+    background-color: orange;
+}
+h4 {
+    color: orange;
+    padding: 5px;
+}
+ul li {
+    list-style-type: none;
+    padding: 3px;
+    padding-left: 5px;
+}
+ul li a {
+    color : white;
+    text-decoration: none;
+}
+span {
+    color: white;
+}
+#fourthPart ul li:last-child{
+    margin-top: 15px;
+}
+#fourthPart img {
+    width: 35px;
+    height: 35px;
+}
+.fb-like-box {
+    float: left;
+    background-color: white;
+}

@@ -1,0 +1,12 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\09.PrintASequence\bin\Release\09.PrintASequence.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\09.PrintASequence\bin\Release\09.PrintASequence.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\09.PrintASequence\bin\Release\09.PrintASequence.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\09.PrintASequence\obj\Release\09.PrintASequence.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\09.PrintASequence\obj\Release\09.PrintASequence.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\09.PrintASequence\obj\Release\09.PrintASequence.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\bin\Release\09.PrintASequence.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\bin\Release\09.PrintASequence.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\bin\Release\09.PrintASequence.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\obj\Release\09.PrintASequence.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\obj\Release\09.PrintASequence.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\09.PrintASequence\obj\Release\09.PrintASequence.pdb

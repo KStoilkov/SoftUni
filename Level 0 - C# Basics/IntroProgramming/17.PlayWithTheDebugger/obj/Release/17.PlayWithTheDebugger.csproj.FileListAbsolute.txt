@@ -1,0 +1,10 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\17.PlayWithTheDebugger\bin\Release\17.PlayWithTheDebugger.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\17.PlayWithTheDebugger\bin\Release\17.PlayWithTheDebugger.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\17.PlayWithTheDebugger\bin\Release\17.PlayWithTheDebugger.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\17.PlayWithTheDebugger\obj\Release\17.PlayWithTheDebugger.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\17.PlayWithTheDebugger\obj\Release\17.PlayWithTheDebugger.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\17.PlayWithTheDebugger\bin\Release\17.PlayWithTheDebugger.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\17.PlayWithTheDebugger\bin\Release\17.PlayWithTheDebugger.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\17.PlayWithTheDebugger\bin\Release\17.PlayWithTheDebugger.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\17.PlayWithTheDebugger\obj\Release\17.PlayWithTheDebugger.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgramming\17.PlayWithTheDebugger\obj\Release\17.PlayWithTheDebugger.pdb

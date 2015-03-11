@@ -1,0 +1,5 @@
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

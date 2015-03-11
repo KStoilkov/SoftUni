@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\01.ExchangeIfGreater\bin\Release\01.ExchangeIfGreater.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\01.ExchangeIfGreater\bin\Release\01.ExchangeIfGreater.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\01.ExchangeIfGreater\bin\Release\01.ExchangeIfGreater.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\01.ExchangeIfGreater\obj\Release\01.ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\01.ExchangeIfGreater\obj\Release\01.ExchangeIfGreater.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\01.ExchangeIfGreater\01.ExchangeIfGreater\obj\Release\01.ExchangeIfGreater.pdb

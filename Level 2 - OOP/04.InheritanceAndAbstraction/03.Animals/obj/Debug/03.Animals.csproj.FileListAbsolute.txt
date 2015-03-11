@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\03.Animals\bin\Debug\03.Animals.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\03.Animals\bin\Debug\03.Animals.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\03.Animals\bin\Debug\03.Animals.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\03.Animals\obj\Debug\03.Animals.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\03.Animals\obj\Debug\03.Animals.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\04.InheritanceAndAbstraction\03.Animals\obj\Debug\03.Animals.pdb

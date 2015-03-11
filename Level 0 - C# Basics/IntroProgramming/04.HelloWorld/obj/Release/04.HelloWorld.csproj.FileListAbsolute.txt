@@ -1,0 +1,3 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\HelloWorld\bin\Release\HelloWorld.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\HelloWorld\obj\Release\HelloWorld.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\HelloWorld\obj\Release\HelloWorld.pdb

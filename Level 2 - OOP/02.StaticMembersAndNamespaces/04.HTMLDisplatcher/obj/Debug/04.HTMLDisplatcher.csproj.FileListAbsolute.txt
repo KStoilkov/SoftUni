@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\04.HTMLDisplatcher\bin\Debug\04.HTMLDisplatcher.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\04.HTMLDisplatcher\bin\Debug\04.HTMLDisplatcher.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\04.HTMLDisplatcher\bin\Debug\04.HTMLDisplatcher.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\04.HTMLDisplatcher\obj\Debug\04.HTMLDisplatcher.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\04.HTMLDisplatcher\obj\Debug\04.HTMLDisplatcher.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\04.HTMLDisplatcher\obj\Debug\04.HTMLDisplatcher.pdb

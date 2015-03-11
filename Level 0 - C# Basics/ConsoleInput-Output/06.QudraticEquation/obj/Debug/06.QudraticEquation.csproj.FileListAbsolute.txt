@@ -1,0 +1,5 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\06.QudraticEquation\bin\Debug\06.QudraticEquation.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\06.QudraticEquation\bin\Debug\06.QudraticEquation.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\06.QudraticEquation\bin\Debug\06.QudraticEquation.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\06.QudraticEquation\obj\Debug\06.QudraticEquation.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\06.QudraticEquation\obj\Debug\06.QudraticEquation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\10.InsideACircleAndOutsideRectangle\bin\Release\10.InsideACircleAndOutsideRectangle.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\10.InsideACircleAndOutsideRectangle\bin\Release\10.InsideACircleAndOutsideRectangle.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\10.InsideACircleAndOutsideRectangle\bin\Release\10.InsideACircleAndOutsideRectangle.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\10.InsideACircleAndOutsideRectangle\obj\Release\10.InsideACircleAndOutsideRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\10.InsideACircleAndOutsideRectangle\obj\Release\10.InsideACircleAndOutsideRectangle.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatements\10.InsideACircleAndOutsideRectangle\obj\Release\10.InsideACircleAndOutsideRectangle.pdb

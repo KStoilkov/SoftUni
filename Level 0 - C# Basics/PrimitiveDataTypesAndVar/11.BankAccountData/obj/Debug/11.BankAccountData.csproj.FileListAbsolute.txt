@@ -1,0 +1,5 @@
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

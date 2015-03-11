@@ -1,0 +1,8 @@
+#results {
+    background-color: #AAA;
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+    padding: 10px;
+    overflow: scroll;
+}

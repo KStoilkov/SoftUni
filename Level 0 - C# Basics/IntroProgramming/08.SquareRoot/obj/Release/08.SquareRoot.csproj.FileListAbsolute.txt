@@ -1,0 +1,5 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\08.SquareRoot\bin\Release\08.SquareRoot.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\08.SquareRoot\bin\Release\08.SquareRoot.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\08.SquareRoot\bin\Release\08.SquareRoot.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\08.SquareRoot\obj\Release\08.SquareRoot.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\IntroProgrammingHomework\08.SquareRoot\obj\Release\08.SquareRoot.pdb

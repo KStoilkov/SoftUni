@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>FakeBook</title>
+    <link rel="stylesheet" href="indexStyles.css"/>
+</head>
+<body>
+    <div id="container">
+        <h1>fakebook</h1>
+        <h2>Registration</h2>
+        <h3>It is safe and it will always be!</h3>
+        <form>
+            <div id="firstDiv">
+                <fieldset>
+                    <legend>None-Important Information</legend>
+                    <div id="firstLeft">
+                        <input type="text" placeholder="First Name"/>
+                        <input type="text" placeholder="Last Name"/>
+                    </div>
+                    <div id="secondLeft">
+                        <input type="email" placeholder="Your Email"/>
+                        <input type="tel" placeholder="Phone Number"/>
+                    </div>
+                    <div id="thirdLeft">
+                        <input type="password" placeholder="Your Password"/>
+                        <input type="text" placeholder="Website" />
+                    </div>
+                    <label for="birthday">Birthday</label>
+                    <input type="datetime-local" id="birthday"/>
+                    <div id="Gender">
+                        <input type="radio" name="sex" id="Female">
+                        <label for="Female">Female</label>
+                        <input type="radio" name="sex" id="Male">
+                        <label for="Male">Male</label>
+                        <input type="radio" name="sex" id="Other">
+                        <label for="Other">Other</label>
+                    </div>
+                </fieldset>
+                <input type="reset" value="Clear Form"/>
+            </div>
+            <div id="secondDiv">
+                <fieldset>
+                        <legend>Important Information *required</legend>
+                        <div id="firstRight">
+                            <select required="required">
+                                <option>Country</option>
+                                <option>Pakistan</option>
+                            </select>
+                            <input type="text" placeholder="Village" required="required"/>
+                            <input type="text" placeholder="District" required="required"/>
+                        </div>
+                        <div id="secondRight">
+                            <input type="text" placeholder="Street" required="required"/>
+                            <input type="text" placeholder="Nr" required="required"/>
+                            <input type="text" placeholder="Floor" required="required"/>
+                            <input type="text" placeholder="Ap Nr" required="required"/>
+                        </div>
+                        <label for="color">Door Color</label>
+                        <div id="thirdRight">
+                            <input type="color" id="color" required="required"/>
+                            <input type="text" placeholder="Water Meter Nr" required="required"/>
+                            <select required="required">
+                                <option>Aunt Panties' Size</option>
+                                <option>123</option>
+                                <option>321</option>
+                            </select>
+                        </div>
+                        <label for="morePI">More Personal Information</label>
+                        <textarea placeholder="Give Us More Information!!!" id="morePI" required="required"></textarea>
+                </fieldset>
+                <input type="submit" value="Register"/>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.pdb

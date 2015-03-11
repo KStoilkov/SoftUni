@@ -1,0 +1,6 @@
+c:\users\kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.exe.config
+C:\Users\Kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.exe
+C:\Users\Kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.pdb
+C:\Users\Kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06.Four-DigitNumber\obj\Debug\06.Four-DigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\Kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06.Four-DigitNumber\obj\Debug\06.Four-DigitNumber.exe
+C:\Users\Kikata\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06.Four-DigitNumber\obj\Debug\06.Four-DigitNumber.pdb

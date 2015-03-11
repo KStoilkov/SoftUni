@@ -1,0 +1,6 @@
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\01.Point3d\bin\Debug\01.Point3d.exe.config
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\01.Point3d\bin\Debug\01.Point3d.exe
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\01.Point3d\bin\Debug\01.Point3d.pdb
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\01.Point3d\obj\Debug\01.Point3d.csprojResolveAssemblyReference.cache
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\01.Point3d\obj\Debug\01.Point3d.exe
+c:\users\kiro\documents\visual studio 2013\Projects\02.StaticMembersAndNamespaces\01.Point3d\obj\Debug\01.Point3d.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\07.SumOfFiveNumbers\bin\Release\07.SumOfFiveNumbers.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\07.SumOfFiveNumbers\bin\Release\07.SumOfFiveNumbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\07.SumOfFiveNumbers\bin\Release\07.SumOfFiveNumbers.pdb
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\07.SumOfFiveNumbers\obj\Release\07.SumOfFiveNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\07.SumOfFiveNumbers\obj\Release\07.SumOfFiveNumbers.exe
+C:\Users\Kiro\Documents\Visual Studio 2012\Projects\ConsoleInput-Output\07.SumOfFiveNumbers\obj\Release\07.SumOfFiveNumbers.pdb

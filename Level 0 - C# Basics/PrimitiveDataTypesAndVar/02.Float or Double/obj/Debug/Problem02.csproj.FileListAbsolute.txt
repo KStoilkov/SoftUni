@@ -1,0 +1,5 @@
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Float or Double\bin\Debug\Float or Double.exe.config
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Float or Double\bin\Debug\Float or Double.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Float or Double\bin\Debug\Float or Double.pdb
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Float or Double\obj\Debug\Float or Double.exe
+c:\users\kikata\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVar\Float or Double\obj\Debug\Float or Double.pdb
