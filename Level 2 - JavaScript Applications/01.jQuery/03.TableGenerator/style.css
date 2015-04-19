@@ -1,0 +1,14 @@
+table {
+	width: 500px;
+	margin: 10px;
+	border-collapse: collapse;
+}
+
+table th {
+	background-color: #76923C;
+}
+
+table tr th, td{
+	border: 1px solid black;
+	padding: 2px;
+}
