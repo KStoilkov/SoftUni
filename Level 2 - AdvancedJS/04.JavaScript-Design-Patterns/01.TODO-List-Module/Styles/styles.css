@@ -1,0 +1,170 @@
+body {
+	background-color: #DDD;
+}
+
+#wrapper {
+	width: 800px;
+	margin: 0 auto;
+	border: 1px solid black;
+	border-radius: 10px;
+	border-color: #DE2E2A;
+	background-color: #CC8400;
+	box-shadow: 0 0 20px #000;
+}
+
+#wrapper > h2 {
+	margin: 5px;
+	margin-bottom: 10px;
+	padding: 5px;
+	text-align: center;
+	font-style: italic;
+	font-size: 34px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px #444;
+}
+
+#container-wrapper > div{
+	width: 700px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 20px;
+	margin-bottom: 20px; 
+	box-shadow: 0 0 15px #000;
+	border-radius: 10px;
+	background-color: #E69500;
+}
+
+#container-wrapper > div h1 {
+	text-align: center;
+	font-size: 24px;
+	font-weight: normal;
+	font-family: tahoma;
+	margin: 0;
+	padding: 5px; 
+	padding-top: 0; 
+	display: inline-block;
+} 
+
+#container-wrapper > div button {
+	margin: 5px;
+}
+
+#container-wrapper > div input {
+	margin-left: 5px;
+}
+
+.section {
+	width: 700px;
+	margin: 0;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	background-color: #FFAE1A;
+}
+
+.itemDiv {
+	width: 650px;
+	margin: 20px;
+	box-shadow: 0 0 5px #555;
+	border-radius: 10px;
+}
+.itemDiv:hover {
+	box-shadow: 0 0 10px #555;
+}
+
+.itemDiv > h2 {
+	margin: 0;
+	margin-right: 5px;
+	padding: 2px;
+	font-size: 24px;
+	font-style: italic;
+	text-align: right;
+}
+
+.itemMenuDiv {
+	text-align: right;
+}
+
+ul.list-items {
+	width: 650px;
+	padding: 0;
+}
+
+ul.list-items li {
+	margin: 5px;
+	padding: 0;
+	list-style: none;
+	border-radius: 20px;
+}
+
+ul.list-items li input[type="checkbox"], label{
+	margin: 0;
+	margin-left: 5px;
+	padding: 5px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+ul.list-items li div {
+	display: inline-block;
+	float: right;
+	vertical-align: middle;
+}
+
+ul.list-items li div button {
+	width: 18px;
+	height: 18px;
+	font-size: 10px;
+	font-weight: bold;
+	display: block;
+	border-radius: 50%;
+	background-color: #F01E1E;
+	opacity: 0.3;
+}
+
+ul.list-items li div button:hover {
+	opacity: 1;
+}
+
+input[type=button], input[type=text], button {
+	border: none;
+	border-radius: 5px;
+	padding: 5px;
+	outline: none;
+}
+
+input[type=button]:hover, button:hover {
+	background-color: #FFC04D;
+}
+
+.itemMenuDiv > button {
+	width: 25px;
+}
+
+.itemMenuDiv > button:hover {
+	background-color: #E69500;
+}
+
+.sectionRemoveBtn, .containerRemoveBtn {
+	background-color: #F01E1E;
+	width:25px;
+	border-radius: 10px;
+	opacity: 0.1;
+}
+
+.sectionRemoveBtn {
+	float: left;
+}
+
+.containerRemoveBtn {
+	float: right;
+	display: inline-block;
+}
+
+.sectionRemoveBtn:hover , .containerRemoveBtn:hover{
+	opacity: 0.4;
+	background-color: #F01E1E;
+}
+
+#new-list {
+	margin: 5px;
+}
