@@ -1,0 +1,107 @@
+#wrapper {
+	width: 600px;
+	margin: 0 auto;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 0 0 10px #000;
+	background-color: #cccc00;
+}
+
+#wrapper > h1 {
+	text-align: center;
+}
+
+div.question {
+	width: 550px;
+	margin: 20px;
+	margin-left: 25px;
+	box-shadow: 0 0 10px #AAA;
+	border-radius: 5px;
+}
+
+div.question:hover {
+	box-shadow: 0 0 15px #FFF;
+}
+
+div.question > h3 {
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid #DDD;
+	border-radius: 50%;
+	text-align: center;
+}
+
+div.question > p {
+	padding: 5px;
+	padding-bottom: 0;
+	margin: 20px;
+	font-weight: bold;
+	display: inline-block;
+	text-align: center;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	margin-left: 30px;
+}
+ul li {
+	padding: 5px;
+	margin: 0;
+	list-style: none;
+}
+
+.answerResult {
+	width: 30px;
+}
+
+.answerResult > h4 {
+	width: 20px;
+	height: 15px;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.answerContent {
+	border-radius: 40%;
+}
+
+.answerResult, .answerContent {
+	margin: 0;
+	padding: 5px;
+	display: inline-block;
+	vertical-align: top;
+	height: 20px;
+}
+
+.answerContent:hover {
+	cursor: pointer;
+	background-color: #ff8000;
+}
+
+#footer {
+	text-align: center;
+	margin: 10px;
+}
+
+.orangeDiv {
+	background-color: #ff8000;
+}
+
+#footer > button {
+	border-radius: 15px;
+	border: none;
+	background-color: #e95d3c;
+	outline: none;
+	cursor: pointer;
+	padding: 10px;
+	box-shadow: 0 0 5px #e95d3c;
+}
+
+#footer > button:hover {
+	box-shadow: 0 0 5px #000;
+}
