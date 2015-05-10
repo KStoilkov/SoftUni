@@ -1,0 +1,96 @@
+#wrapper {
+	width: 600px;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: #545454;
+}
+
+.book {
+	width: 500px;
+	padding: 10px;
+	margin: 40px;
+	border-radius: 10px;
+	background-color: #939393;
+	box-shadow: 0 0 5px #939393;
+}
+
+.book > h1 {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.book:hover {
+	box-shadow: 0 0 10px #bdbdbd;
+	cursor: pointer;
+}
+
+.bookISBN{
+	margin-bottom: 0;
+}
+
+.editPanel {
+	text-align: center;
+	height: 20px;
+}
+
+.editPanel > button {
+	width: 120px;
+	height: 20px;
+	font-size: 11px;
+	background-color: #a8a8a8;
+}
+
+#newBookPanel, .editDiv {
+	position: fixed;
+	top: 3%;
+	width: 170px;
+	background-color: #7e7e7e;
+	border-radius: 5px;
+}
+
+#newBookPanel {
+	left: 3%;
+}
+
+.editDiv {
+	left: 15%;
+}
+
+.editDiv > input, button{
+	margin: 5px;
+	padding: 5px;
+	border: none;
+	border-radius: 10px;
+}
+
+.editDiv > input {
+	width: 150px;
+}
+
+.editDiv > button {
+	width: 160px;
+}
+
+#newBookPanel > input, button {
+	margin: 5px;
+	padding: 5px;
+	border: none;
+	border-radius: 10px;
+}
+
+#newBookPanel > input {
+	width: 150px;
+}
+
+#newBookPanel > button {
+	width: 160px;
+}
+
+button, input {
+	outline: none;
+}
+
+button:hover {
+	cursor: pointer;
+}
