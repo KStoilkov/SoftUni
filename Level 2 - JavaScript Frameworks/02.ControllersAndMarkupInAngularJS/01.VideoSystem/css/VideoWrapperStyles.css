@@ -1,0 +1,83 @@
+#videoWrapper, #addVideoWrapper {
+    display: inline-block;
+    margin: 48px;
+    border: 1px solid black;
+    vertical-align: top;
+}
+
+#videoWrapper h1 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#videoWrapper {
+    width: 600px;
+    height: 800px;
+    overflow: scroll;
+}
+
+#videoWrapper .videoBack {
+    padding: 10px;
+    margin: 40px;
+    width: 500px;
+    border: 1px solid black;
+    box-shadow: 0 0 10px #000;
+}
+
+.video img {
+    width: 200px;
+    height: 200px;
+}
+
+.video img, .video div.videoInfo {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.videoInfo {
+    width: 200px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.videoComments {
+    border: 1px solid black;
+    margin: 10px;
+    margin-left: 40px;
+    width: 400px;
+}
+
+.videoComments > h5 {
+    text-align: center;
+}
+
+.videoComment {
+    width: 300px;
+    border: 1px solid black;
+    margin: 10px;
+    margin-left: 40px;
+}
+
+.videoCommentUser > img {
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    margin-left: 20px;
+}
+
+.videoCommentUser > h4{
+    padding: 5px;
+    margin: 5px;
+}
+
+.videoCommentUser, .videoCommentContent {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.videoCommentUser {
+    border-right: 1px solid black;
+}

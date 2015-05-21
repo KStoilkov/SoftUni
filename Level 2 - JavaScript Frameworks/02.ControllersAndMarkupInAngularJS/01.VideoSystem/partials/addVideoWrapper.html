@@ -1,0 +1,18 @@
+<h1>ADD VIDEO</h1>
+<label for="title">Title <span class="required">*</span></label>
+<input name="title" type="text" id="title" ng-model="newVideoHolder.title" ng-minlength="3" ng-maxlength="30" required/>
+<div class="error" ng-show="addForm.title.$dirty && addForm.title.$invalid">Title should contain atleast 3 characters</div>
+<label for="picture">Picture Url <span class="required">*</span></label>
+<input name="pictureUrl" type="url" id="picture" ng-model="newVideoHolder.pictureUrl" required/>
+<div class="error" ng-show="addForm.pictureUrl.$dirty && addForm.pictureUrl.$invalid">Invalid url</div>
+<label for="length">Length</label>
+<input type="text" id="length" ng-model="newVideoHolder.length"/>
+<label for="category">Category <span class="required">*</span></label>
+<input name="category" type="text" id="category" ng-model="newVideoHolder.category" required/>
+<div class="error" ng-show="addForm.category.$dirty && addForm.category.$invalid">This field is required</div>
+<label for="subscribers">Subscribers</label>
+<input type="text" id="subscribers" ng-model="newVideoHolder.subscribers"/>
+<label for="Date">Date</label>
+<input type="date" id="Date" ng-model="newVideoHolder.date"/>
+<button ng-disabled="addForm.$invalid" ng-click="addVideo(newVideoHolder)">Add Video</button>
+

@@ -1,0 +1,11 @@
+<div class="video">
+    <img ng-src="{{video.pictureUrl}}"/>
+    <div class="videoInfo">
+        <h2>{{video.title}}</h2>
+        <p>Date: {{video.date | date}}</p>
+        <p>Category: {{video.category}}</p>
+        <h3>Subscribers: {{video.subscribers}}</h3>
+    </div>
+    <div class="videoComments" ng-repeat="comment in video.comments" ng-include="'partials/comment.html'">
+    </div>
+</div>

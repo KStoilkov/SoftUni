@@ -1,0 +1,36 @@
+#wrapper {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+#studentPage, #image {
+    display: inline-block;
+    width: 450px;
+    height: 500px;
+    padding: 0;
+    margin: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+#studentPage > img {
+    width: 150px;
+    height: 150px;
+}
+
+#studentPage > * {
+    padding-left: 10px;
+}
+
+#image > input{
+    display: block;
+    margin: 20px;
+    width: 400px;
+}
+
+#image > img {
+    width: 400px;
+    height: 300px;
+    margin: 20px;
+}
