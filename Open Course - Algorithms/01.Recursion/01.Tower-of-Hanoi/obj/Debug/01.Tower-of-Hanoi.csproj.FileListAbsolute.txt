@@ -1,0 +1,6 @@
+c:\users\kiro\documents\visual studio 2013\Projects\01.Recursion\01.Tower-of-Hanoi\bin\Debug\01.Tower-of-Hanoi.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\01.Tower-of-Hanoi\bin\Debug\01.Tower-of-Hanoi.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\01.Tower-of-Hanoi\bin\Debug\01.Tower-of-Hanoi.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\01.Tower-of-Hanoi\obj\Debug\01.Tower-of-Hanoi.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\01.Tower-of-Hanoi\obj\Debug\01.Tower-of-Hanoi.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\01.Tower-of-Hanoi\obj\Debug\01.Tower-of-Hanoi.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\03.CombinationsWithRepetition\bin\Debug\03.CombinationsWithRepetition.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\03.CombinationsWithRepetition\bin\Debug\03.CombinationsWithRepetition.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\03.CombinationsWithRepetition\bin\Debug\03.CombinationsWithRepetition.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\03.CombinationsWithRepetition\obj\Debug\03.CombinationsWithRepetition.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\03.CombinationsWithRepetition\obj\Debug\03.CombinationsWithRepetition.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\03.CombinationsWithRepetition\obj\Debug\03.CombinationsWithRepetition.pdb

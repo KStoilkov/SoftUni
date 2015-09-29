@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\06.Connected-Areas-In-Matrix\bin\Debug\06.Connected-Areas-In-Matrix.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\06.Connected-Areas-In-Matrix\bin\Debug\06.Connected-Areas-In-Matrix.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\06.Connected-Areas-In-Matrix\bin\Debug\06.Connected-Areas-In-Matrix.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\06.Connected-Areas-In-Matrix\obj\Debug\06.Connected-Areas-In-Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\06.Connected-Areas-In-Matrix\obj\Debug\06.Connected-Areas-In-Matrix.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\06.Connected-Areas-In-Matrix\obj\Debug\06.Connected-Areas-In-Matrix.pdb

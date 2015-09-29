@@ -1,0 +1,5 @@
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\04.CombinationsWithoutRepetition\bin\Debug\04.CombinationsWithoutRepetition.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\04.CombinationsWithoutRepetition\bin\Debug\04.CombinationsWithoutRepetition.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\04.CombinationsWithoutRepetition\bin\Debug\04.CombinationsWithoutRepetition.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\04.CombinationsWithoutRepetition\obj\Debug\04.CombinationsWithoutRepetition.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\04.CombinationsWithoutRepetition\obj\Debug\04.CombinationsWithoutRepetition.pdb

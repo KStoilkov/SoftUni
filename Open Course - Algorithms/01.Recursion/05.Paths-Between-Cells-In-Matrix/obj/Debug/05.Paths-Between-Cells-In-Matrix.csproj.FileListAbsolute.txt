@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\05.Paths-Between-Cells-In-Matrix\bin\Debug\05.Paths-Between-Cells-In-Matrix.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\05.Paths-Between-Cells-In-Matrix\bin\Debug\05.Paths-Between-Cells-In-Matrix.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\05.Paths-Between-Cells-In-Matrix\bin\Debug\05.Paths-Between-Cells-In-Matrix.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\05.Paths-Between-Cells-In-Matrix\obj\Debug\05.Paths-Between-Cells-In-Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\05.Paths-Between-Cells-In-Matrix\obj\Debug\05.Paths-Between-Cells-In-Matrix.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\01.Recursion\05.Paths-Between-Cells-In-Matrix\obj\Debug\05.Paths-Between-Cells-In-Matrix.pdb
