@@ -1,0 +1,1 @@
+select FirstName + '.' + LastName + '@softuni.bg' as [Email Adress] from Employees
