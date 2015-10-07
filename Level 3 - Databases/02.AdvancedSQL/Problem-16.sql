@@ -1,0 +1,4 @@
+CREATE VIEW V_UsersLoggedToday AS
+	SELECT Username FROM Users
+	WHERE LastLogin = CONVERT(DATE, GETDATE())
+GO
