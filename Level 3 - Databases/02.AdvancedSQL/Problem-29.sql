@@ -1,0 +1,12 @@
+CREATE TABLE WorkHours
+(
+	Id int IDENTITY PRIMARY KEY NOT NULL,
+	EmployeeID int NOT NULL,
+	Date DATE NOT NULL,
+	Task NVARCHAR(30) NOT NULL,
+	Hours FLOAT NOT NULL,
+	Comments NVARCHAR(MAX),
+	CONSTRAINT FK_WorkHours_Employees FOREIGN KEY (EmployeeID) 
+	REFERENCES Employees(EmployeeID)
+)
+GO
