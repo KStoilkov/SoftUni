@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\02.GeneratePermutationsIteratively\bin\Debug\02.GeneratePermutationsIteratively.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\02.GeneratePermutationsIteratively\bin\Debug\02.GeneratePermutationsIteratively.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\02.GeneratePermutationsIteratively\bin\Debug\02.GeneratePermutationsIteratively.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\02.GeneratePermutationsIteratively\obj\Debug\02.GeneratePermutationsIteratively.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\02.GeneratePermutationsIteratively\obj\Debug\02.GeneratePermutationsIteratively.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\02.GeneratePermutationsIteratively\obj\Debug\02.GeneratePermutationsIteratively.pdb

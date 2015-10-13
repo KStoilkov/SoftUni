@@ -1,0 +1,6 @@
+c:\users\kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\bin\Debug\01.Permutations.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\bin\Debug\01.Permutations.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\bin\Debug\01.Permutations.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\obj\Debug\01.Permutations.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\obj\Debug\01.Permutations.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\obj\Debug\01.Permutations.pdb

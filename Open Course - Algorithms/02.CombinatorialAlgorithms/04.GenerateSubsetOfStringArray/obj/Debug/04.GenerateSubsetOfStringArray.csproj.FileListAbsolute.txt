@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\04.GenerateSubsetOfStringArray\bin\Debug\04.GenerateSubsetOfStringArray.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\04.GenerateSubsetOfStringArray\bin\Debug\04.GenerateSubsetOfStringArray.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\04.GenerateSubsetOfStringArray\bin\Debug\04.GenerateSubsetOfStringArray.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\04.GenerateSubsetOfStringArray\obj\Debug\04.GenerateSubsetOfStringArray.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\04.GenerateSubsetOfStringArray\obj\Debug\04.GenerateSubsetOfStringArray.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\04.GenerateSubsetOfStringArray\obj\Debug\04.GenerateSubsetOfStringArray.pdb

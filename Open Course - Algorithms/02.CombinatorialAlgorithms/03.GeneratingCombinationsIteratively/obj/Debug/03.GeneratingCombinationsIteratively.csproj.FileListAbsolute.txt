@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\03.GeneratingCombinationsIteratively\bin\Debug\03.GeneratingCombinationsIteratively.exe.config
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\03.GeneratingCombinationsIteratively\bin\Debug\03.GeneratingCombinationsIteratively.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\03.GeneratingCombinationsIteratively\bin\Debug\03.GeneratingCombinationsIteratively.pdb
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\03.GeneratingCombinationsIteratively\obj\Debug\03.GeneratingCombinationsIteratively.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\03.GeneratingCombinationsIteratively\obj\Debug\03.GeneratingCombinationsIteratively.exe
+C:\Users\Kiro\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\03.GeneratingCombinationsIteratively\obj\Debug\03.GeneratingCombinationsIteratively.pdb
