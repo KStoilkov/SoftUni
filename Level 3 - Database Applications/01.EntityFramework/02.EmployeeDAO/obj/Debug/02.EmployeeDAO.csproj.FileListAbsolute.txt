@@ -1,0 +1,12 @@
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\bin\Debug\02.EmployeeDAO.exe.config
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\bin\Debug\02.EmployeeDAO.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\bin\Debug\02.EmployeeDAO.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\bin\Debug\01.DBContext.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\bin\Debug\EntityFramework.dll
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\bin\Debug\01.DBContext.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\bin\Debug\EntityFramework.xml
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\obj\Debug\02.EmployeeDAO.csprojResolveAssemblyReference.cache
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\obj\Debug\02.EmployeeDAO.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\obj\Debug\02.EmployeeDAO.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\02.EmployeeDAO\bin\Debug\EntityFramework.SqlServer.xml

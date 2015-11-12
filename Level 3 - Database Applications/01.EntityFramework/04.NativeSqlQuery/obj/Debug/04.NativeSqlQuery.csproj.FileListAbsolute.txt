@@ -1,0 +1,11 @@
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\04.NativeSqlQuery\bin\Debug\04.NativeSqlQuery.exe.config
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\04.NativeSqlQuery\bin\Debug\04.NativeSqlQuery.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\04.NativeSqlQuery\bin\Debug\04.NativeSqlQuery.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\04.NativeSqlQuery\bin\Debug\01.DBContext.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\04.NativeSqlQuery\bin\Debug\EntityFramework.dll
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\04.NativeSqlQuery\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\04.NativeSqlQuery\bin\Debug\01.DBContext.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\04.NativeSqlQuery\bin\Debug\EntityFramework.xml
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\04.NativeSqlQuery\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\04.NativeSqlQuery\obj\Debug\04.NativeSqlQuery.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\04.NativeSqlQuery\obj\Debug\04.NativeSqlQuery.pdb

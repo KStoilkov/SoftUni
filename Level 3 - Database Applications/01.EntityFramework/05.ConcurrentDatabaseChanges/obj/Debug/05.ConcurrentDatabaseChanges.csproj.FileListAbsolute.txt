@@ -1,0 +1,12 @@
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\bin\Debug\05.ConcurrentDatabaseChanges.exe.config
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\bin\Debug\05.ConcurrentDatabaseChanges.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\bin\Debug\05.ConcurrentDatabaseChanges.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\bin\Debug\01.DBContext.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\bin\Debug\EntityFramework.dll
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\bin\Debug\01.DBContext.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\bin\Debug\EntityFramework.xml
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\obj\Debug\05.ConcurrentDatabaseChanges.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\obj\Debug\05.ConcurrentDatabaseChanges.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\05.ConcurrentDatabaseChanges\obj\Debug\05.ConcurrentDatabaseChanges.csprojResolveAssemblyReference.cache

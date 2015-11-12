@@ -1,0 +1,12 @@
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\bin\Debug\03.DatabaseSearchQueries.exe.config
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\bin\Debug\03.DatabaseSearchQueries.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\bin\Debug\03.DatabaseSearchQueries.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\bin\Debug\01.DBContext.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\bin\Debug\EntityFramework.dll
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\bin\Debug\01.DBContext.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\bin\Debug\EntityFramework.xml
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\obj\Debug\03.DatabaseSearchQueries.csprojResolveAssemblyReference.cache
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\obj\Debug\03.DatabaseSearchQueries.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\03.DatabaseSearchQueries\obj\Debug\03.DatabaseSearchQueries.pdb

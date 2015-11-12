@@ -1,0 +1,10 @@
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\01.DBContext\bin\Debug\01.DBContext.exe.config
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\01.DBContext\bin\Debug\01.DBContext.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\01.DBContext\bin\Debug\01.DBContext.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\01.DBContext\bin\Debug\EntityFramework.dll
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\01.DBContext\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\01.DBContext\bin\Debug\EntityFramework.xml
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\01.DBContext\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\01.DBContext\obj\Debug\01.DBContext.csprojResolveAssemblyReference.cache
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\01.DBContext\obj\Debug\01.DBContext.exe
+c:\users\kiro\documents\visual studio 2015\Projects\01.EntityFramework\01.DBContext\obj\Debug\01.DBContext.pdb
