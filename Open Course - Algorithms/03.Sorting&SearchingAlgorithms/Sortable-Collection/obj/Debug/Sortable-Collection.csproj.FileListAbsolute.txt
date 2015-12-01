@@ -1,0 +1,6 @@
+C:\Users\Kiro\Desktop\Sorting&Searching Lab\Sortable-Collection\bin\Debug\01.Students-And-Courses.exe.config
+C:\Users\Kiro\Desktop\Sorting&Searching Lab\Sortable-Collection\bin\Debug\01.Students-And-Courses.exe
+C:\Users\Kiro\Desktop\Sorting&Searching Lab\Sortable-Collection\bin\Debug\01.Students-And-Courses.pdb
+C:\Users\Kiro\Desktop\Sorting&Searching Lab\Sortable-Collection\obj\Debug\Sortable-Collection.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Desktop\Sorting&Searching Lab\Sortable-Collection\obj\Debug\01.Students-And-Courses.exe
+C:\Users\Kiro\Desktop\Sorting&Searching Lab\Sortable-Collection\obj\Debug\01.Students-And-Courses.pdb
