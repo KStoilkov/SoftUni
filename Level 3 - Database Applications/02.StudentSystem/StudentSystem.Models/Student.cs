@@ -7,10 +7,12 @@
     public class Student
     {
         private ICollection<Course> courses;
+        private ICollection<Homework> homeworks;
 
         public Student()
         {
             this.courses = new HashSet<Course>();
+            this.homeworks = new HashSet<Homework>();
         }
 
         [Key]
@@ -30,6 +32,12 @@
         {
             get { return this.courses; }
             set { this.courses = value; }
+        }
+
+        public virtual ICollection<Homework> Homeworks
+        {
+            get { return this.homeworks; }
+            set { this.homeworks = value; }
         }
     }
 }

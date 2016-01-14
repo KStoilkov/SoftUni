@@ -45,6 +45,7 @@
     <Compile Include="enums\ContentType.cs" />
     <Compile Include="enums\TypeOfResource.cs" />
     <Compile Include="Homework.cs" />
+    <Compile Include="License.cs" />
     <Compile Include="Resource.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
