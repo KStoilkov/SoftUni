@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<students xmlns="urn:students">
+	<student>
+		<name>Pesho</name>
+		<gender>Male</gender>
+		<birth-date>1994-05-02</birth-date>
+		<phone-number>083615273</phone-number>
+		<email>pesho@gmail.com</email>
+		<university>Software University</university>
+		<specialty>.NET</specialty>
+		<faculty-number>11111a</faculty-number>
+		<exams>
+			<exam>
+				<name>C# Basics</name>
+				<date-taken>2010-09-03</date-taken>
+				<grade>6.00</grade>
+			</exam>
+			<exam>
+				<name>Java Basics</name>
+				<date-taken>2012-03-01</date-taken>
+				<grade>5.10</grade>
+			</exam>
+			<exam>
+				<name>Algorithms</name>
+				<date-taken>2015-09-23</date-taken>
+				<grade>4.50</grade>
+			</exam>
+		</exams>		
+    <endorsements>
+      <endorsement>
+        <author>Kiro</author>
+        <author-email>Kiro@gmail.com</author-email>
+        <endorsement-date>2013-05-02</endorsement-date>
+        <endorsement-text>Excellent student.</endorsement-text>
+      </endorsement>
+    </endorsements>
+	</student>
+	<student>
+		<name>Ginka</name>
+		<gender>Female</gender>
+		<birth-date>1992-05-22</birth-date>
+		<phone-number>0899731235</phone-number>
+		<email>ginka@gmail.com</email>
+		<university>Software University</university>
+		<specialty>Java</specialty>
+		<faculty-number>2222b</faculty-number>
+		<exams>
+			<exam>
+				<name>C# Basics</name>
+				<date-taken>2010-09-03</date-taken>
+				<grade>5.00</grade>
+			</exam>
+			<exam>
+				<name>Java Basics</name>
+				<date-taken>2012-03-01</date-taken>
+				<grade>3.10</grade>
+			</exam>
+			<exam>
+				<name>Algorithms</name>
+				<date-taken>2015-09-23</date-taken>
+				<grade>5.50</grade>
+			</exam>
+		</exams>		
+	</student>
+	<student>
+		<name>Toshko</name>
+		<gender>Male</gender>
+		<birth-date>1994-05-02</birth-date>
+		<phone-number>083615273</phone-number>
+		<email>toshko@gmail.com</email>
+		<university>Software University</university>
+		<specialty>C#</specialty>
+		<faculty-number>13331a</faculty-number>
+		<exams>
+			<exam>
+				<name>C# Basics</name>
+				<date-taken>2010-09-03</date-taken>
+				<grade>6.00</grade>
+			</exam>
+			<exam>
+				<name>Java Basics</name>
+				<date-taken>2012-03-01</date-taken>
+				<grade>3.10</grade>
+			</exam>
+			<exam>
+				<name>Algorithms</name>
+				<date-taken>2015-09-23</date-taken>
+				<grade>3.50</grade>
+			</exam>
+		</exams>		
+	</student>
+</students>
