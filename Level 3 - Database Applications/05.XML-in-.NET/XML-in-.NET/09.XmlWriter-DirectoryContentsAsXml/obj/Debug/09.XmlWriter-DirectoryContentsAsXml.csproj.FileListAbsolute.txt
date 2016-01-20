@@ -1,0 +1,6 @@
+C:\Users\Stoilkov\Documents\GitHub\SoftUni\Level 3 - Database Applications\05.XML-in-.NET\XML-in-.NET\09.XmlWriter-DirectoryContentsAsXml\bin\Debug\09.XmlWriter-DirectoryContentsAsXml.exe.config
+C:\Users\Stoilkov\Documents\GitHub\SoftUni\Level 3 - Database Applications\05.XML-in-.NET\XML-in-.NET\09.XmlWriter-DirectoryContentsAsXml\bin\Debug\09.XmlWriter-DirectoryContentsAsXml.exe
+C:\Users\Stoilkov\Documents\GitHub\SoftUni\Level 3 - Database Applications\05.XML-in-.NET\XML-in-.NET\09.XmlWriter-DirectoryContentsAsXml\bin\Debug\09.XmlWriter-DirectoryContentsAsXml.pdb
+C:\Users\Stoilkov\Documents\GitHub\SoftUni\Level 3 - Database Applications\05.XML-in-.NET\XML-in-.NET\09.XmlWriter-DirectoryContentsAsXml\obj\Debug\09.XmlWriter-DirectoryContentsAsXml.csprojResolveAssemblyReference.cache
+C:\Users\Stoilkov\Documents\GitHub\SoftUni\Level 3 - Database Applications\05.XML-in-.NET\XML-in-.NET\09.XmlWriter-DirectoryContentsAsXml\obj\Debug\09.XmlWriter-DirectoryContentsAsXml.exe
+C:\Users\Stoilkov\Documents\GitHub\SoftUni\Level 3 - Database Applications\05.XML-in-.NET\XML-in-.NET\09.XmlWriter-DirectoryContentsAsXml\obj\Debug\09.XmlWriter-DirectoryContentsAsXml.pdb
