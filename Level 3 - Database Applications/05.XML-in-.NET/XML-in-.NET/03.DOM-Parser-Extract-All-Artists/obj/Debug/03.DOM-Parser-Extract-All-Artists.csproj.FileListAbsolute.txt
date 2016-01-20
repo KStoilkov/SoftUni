@@ -1,0 +1,5 @@
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\03.DOM-Parser-Extract-All-Artists\bin\Debug\03.DOM-Parser-Extract-All-Artists.exe.config
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\03.DOM-Parser-Extract-All-Artists\bin\Debug\03.DOM-Parser-Extract-All-Artists.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\03.DOM-Parser-Extract-All-Artists\bin\Debug\03.DOM-Parser-Extract-All-Artists.pdb
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\03.DOM-Parser-Extract-All-Artists\obj\Debug\03.DOM-Parser-Extract-All-Artists.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\03.DOM-Parser-Extract-All-Artists\obj\Debug\03.DOM-Parser-Extract-All-Artists.pdb

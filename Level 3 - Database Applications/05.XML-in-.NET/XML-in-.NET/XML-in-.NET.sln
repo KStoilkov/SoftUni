@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DOM-Parser-Extract-Album-Names", "02.DOM-Parser-Extract-Album-Names\02.DOM-Parser-Extract-Album-Names.csproj", "{107E34CB-8AAC-4C80-821B-E8E350232D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DOM-Parser-Extract-All-Artists", "03.DOM-Parser-Extract-All-Artists\03.DOM-Parser-Extract-All-Artists.csproj", "{44AF28FD-4AE5-4EAE-B2B4-EC1E18714524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.DOM-Parser-Extract-Artist-and-Albums", "04.DOM-Parser-Extract-Artist-and-Albums\04.DOM-Parser-Extract-Artist-and-Albums.csproj", "{6F7095B3-4DCE-47F0-8146-268B66FC6FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.XPath-Extract-Artist-and-Albums", "05.XPath-Extract-Artist-and-Albums\05.XPath-Extract-Artist-and-Albums.csproj", "{4CDA362C-E3EB-4934-8B29-C601B3E03FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Dom-Parser-Delete-Albums", "06.Dom-Parser-Delete-Albums\06.Dom-Parser-Delete-Albums.csproj", "{3A234018-F28E-45AE-AF2B-C0ECF61DE38E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.DOM-Parser-and-XPath-Old-Albums", "07.DOM-Parser-and-XPath-Old-Albums\07.DOM-Parser-and-XPath-Old-Albums.csproj", "{EA77CE17-4025-413F-8F13-8E78F12CE8EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Linq-to-Xml-Old-Albums", "08.Linq-to-Xml-Old-Albums\08.Linq-to-Xml-Old-Albums.csproj", "{CEC59B45-37CE-4DE8-B5BB-8504C634486E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{107E34CB-8AAC-4C80-821B-E8E350232D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107E34CB-8AAC-4C80-821B-E8E350232D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107E34CB-8AAC-4C80-821B-E8E350232D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107E34CB-8AAC-4C80-821B-E8E350232D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44AF28FD-4AE5-4EAE-B2B4-EC1E18714524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AF28FD-4AE5-4EAE-B2B4-EC1E18714524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AF28FD-4AE5-4EAE-B2B4-EC1E18714524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AF28FD-4AE5-4EAE-B2B4-EC1E18714524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7095B3-4DCE-47F0-8146-268B66FC6FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7095B3-4DCE-47F0-8146-268B66FC6FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7095B3-4DCE-47F0-8146-268B66FC6FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7095B3-4DCE-47F0-8146-268B66FC6FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDA362C-E3EB-4934-8B29-C601B3E03FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDA362C-E3EB-4934-8B29-C601B3E03FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDA362C-E3EB-4934-8B29-C601B3E03FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDA362C-E3EB-4934-8B29-C601B3E03FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A234018-F28E-45AE-AF2B-C0ECF61DE38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A234018-F28E-45AE-AF2B-C0ECF61DE38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A234018-F28E-45AE-AF2B-C0ECF61DE38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A234018-F28E-45AE-AF2B-C0ECF61DE38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA77CE17-4025-413F-8F13-8E78F12CE8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA77CE17-4025-413F-8F13-8E78F12CE8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA77CE17-4025-413F-8F13-8E78F12CE8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA77CE17-4025-413F-8F13-8E78F12CE8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC59B45-37CE-4DE8-B5BB-8504C634486E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC59B45-37CE-4DE8-B5BB-8504C634486E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC59B45-37CE-4DE8-B5BB-8504C634486E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC59B45-37CE-4DE8-B5BB-8504C634486E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

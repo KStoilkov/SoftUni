@@ -1,0 +1,5 @@
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\07.DOM-Parser-and-XPath-Old-Albums\bin\Debug\07.DOM-Parser-and-XPath-Old-Albums.exe.config
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\07.DOM-Parser-and-XPath-Old-Albums\bin\Debug\07.DOM-Parser-and-XPath-Old-Albums.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\07.DOM-Parser-and-XPath-Old-Albums\bin\Debug\07.DOM-Parser-and-XPath-Old-Albums.pdb
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\07.DOM-Parser-and-XPath-Old-Albums\obj\Debug\07.DOM-Parser-and-XPath-Old-Albums.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\07.DOM-Parser-and-XPath-Old-Albums\obj\Debug\07.DOM-Parser-and-XPath-Old-Albums.pdb

@@ -1,0 +1,5 @@
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\08.Linq-to-Xml-Old-Albums\bin\Debug\08.Linq-to-Xml-Old-Albums.exe.config
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\08.Linq-to-Xml-Old-Albums\bin\Debug\08.Linq-to-Xml-Old-Albums.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\08.Linq-to-Xml-Old-Albums\bin\Debug\08.Linq-to-Xml-Old-Albums.pdb
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\08.Linq-to-Xml-Old-Albums\obj\Debug\08.Linq-to-Xml-Old-Albums.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\08.Linq-to-Xml-Old-Albums\obj\Debug\08.Linq-to-Xml-Old-Albums.pdb
