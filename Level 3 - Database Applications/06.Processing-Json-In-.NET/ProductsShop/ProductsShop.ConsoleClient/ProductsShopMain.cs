@@ -5,6 +5,7 @@
     using System.IO;
     using System.Linq;
     using System.Web.Script.Serialization;
+    using System.Xml.Linq;
     public class ProductsShopMain
     {
         static void Main()
@@ -21,7 +22,65 @@
             // SuccessfullySoldProducts(context, serializer);
 
             // Query 3
-            //CategoriesByProductsCount(context, serializer);
+            // CategoriesByProductsCount(context, serializer);
+
+            // Query 4
+            UsersAndProducts(context);
+        }
+
+        private static void UsersAndProducts(ProductsShopContext context)
+        {
+            var users = context.Users
+                .Where(u => u.ProductsSold.Count > 0)
+                .OrderByDescending(u => u.ProductsSold.Count)
+                .ThenBy(u => u.LastName)
+                .Select(u => new
+                {
+                    firstName = u.FirstName,
+                    lastName = u.LastName,
+                    age = u.Age,
+                    products = u.ProductsSold
+                    .Select(ps => new
+                    {
+                        name = ps.Name,
+                        price = ps.Price
+                    })
+                });
+            
+            XElement usersElement = new XElement("users", new XAttribute("count", users.Count()));
+
+            foreach (var user in users)
+            {
+                XElement userElement = new XElement("user");
+                
+                if (user.firstName != null)
+                {
+                    userElement.Add(new XAttribute("first-name", user.firstName));
+                }
+
+                userElement.Add(new XAttribute("last-name", user.lastName));
+
+                if (user.age != null)
+                {
+                    userElement.Add(new XAttribute("age", user.age));
+                }
+
+                XElement soldProductsElement = new XElement("sold-products", new XAttribute("count", user.products.Count()));
+
+                foreach (var product in user.products)
+                {
+                    XElement productElement = new XElement("product", 
+                        new XAttribute("name", product.name),
+                        new XAttribute("price", product.price));
+
+                    soldProductsElement.Add(productElement);
+                }
+
+                userElement.Add(soldProductsElement);
+                usersElement.Add(userElement);
+            }
+
+            usersElement.Save("../../../users-and-products.xml");
         }
 
         private static void CategoriesByProductsCount(ProductsShopContext context, JavaScriptSerializer serializer)
