@@ -1,0 +1,10 @@
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\EntityFrameworkMappings\bin\Debug\EntityFrameworkMappings.exe.config
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\EntityFrameworkMappings\bin\Debug\EntityFrameworkMappings.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\EntityFrameworkMappings\bin\Debug\EntityFrameworkMappings.pdb
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\EntityFrameworkMappings\bin\Debug\EntityFramework.dll
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\EntityFrameworkMappings\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\EntityFrameworkMappings\bin\Debug\EntityFramework.xml
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\EntityFrameworkMappings\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\EntityFrameworkMappings\obj\Debug\01.EntityFrameworkMappings.csprojResolveAssemblyReference.cache
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\EntityFrameworkMappings\obj\Debug\EntityFrameworkMappings.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\EntityFrameworkMappings\obj\Debug\EntityFrameworkMappings.pdb

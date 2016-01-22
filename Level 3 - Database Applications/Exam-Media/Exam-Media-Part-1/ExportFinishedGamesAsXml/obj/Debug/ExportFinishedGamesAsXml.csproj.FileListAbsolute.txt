@@ -1,0 +1,1 @@
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportFinishedGamesAsXml\bin\Debug\ExportFinishedGamesAsXml.exe.config

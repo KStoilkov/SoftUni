@@ -1,0 +1,12 @@
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\bin\Debug\ExportCharactersAndPlayersAsJson.exe.config
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\bin\Debug\ExportCharactersAndPlayersAsJson.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\bin\Debug\ExportCharactersAndPlayersAsJson.pdb
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\bin\Debug\EntityFramework.dll
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\bin\Debug\EntityFrameworkMappings.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\bin\Debug\EntityFrameworkMappings.pdb
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\bin\Debug\EntityFramework.xml
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\obj\Debug\02.ExportCharactersAndPlayersAsJson.csprojResolveAssemblyReference.cache
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\obj\Debug\ExportCharactersAndPlayersAsJson.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ExportCharactersAndPlayersAsJson\obj\Debug\ExportCharactersAndPlayersAsJson.pdb

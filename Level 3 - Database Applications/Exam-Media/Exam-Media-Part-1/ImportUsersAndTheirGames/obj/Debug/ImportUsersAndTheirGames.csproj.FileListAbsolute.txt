@@ -1,0 +1,12 @@
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\bin\Debug\ImportUsersAndTheirGames.exe.config
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\bin\Debug\ImportUsersAndTheirGames.exe
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\bin\Debug\ImportUsersAndTheirGames.pdb
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\bin\Debug\EntityFramework.dll
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\bin\Debug\EntityFrameworkMappings.exe
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\bin\Debug\EntityFrameworkMappings.pdb
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\bin\Debug\EntityFramework.xml
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\obj\Debug\ImportUsersAndTheirGames.csprojResolveAssemblyReference.cache
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\obj\Debug\ImportUsersAndTheirGames.exe
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\ImportUsersAndTheirGames\obj\Debug\ImportUsersAndTheirGames.pdb
