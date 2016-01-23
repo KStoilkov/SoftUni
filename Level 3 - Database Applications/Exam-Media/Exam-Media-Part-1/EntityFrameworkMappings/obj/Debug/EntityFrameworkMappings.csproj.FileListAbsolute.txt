@@ -1,1 +1,0 @@
-c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-1\EntityFrameworkMappings\bin\Debug\EntityFrameworkMappings.exe.config

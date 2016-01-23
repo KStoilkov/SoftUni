@@ -2,14 +2,11 @@
 {
     using EntityFrameworkMappings;
     using System;
-    using System.Collections.Generic;
     using System.Linq;
     using System.Xml;
 
     public class ImportUsersAndTheirGames
     {
-        private static List<User> readedUsers = new List<User>();
-
         static void Main()
         {
             var context = new DiabloContext();
@@ -22,26 +19,35 @@
 
             foreach (XmlNode user in users)
             {
-                User currentUser = createUser(context, user, dbUsers);
-                addUserToGames(user, currentUser.Id, currentUser.Username, context);
+                string username = user.Attributes["username"].InnerText;
+
+                var dbUser = dbUsers.FirstOrDefault(u => u.Username == username);
+                if (dbUser != null)
+                {
+                    Console.WriteLine($"User {username} already exists");
+                }
+                else {
+                    User currentUser = createUser(context, user, username);
+                    addUserToGames(user, currentUser.Id, currentUser.Username, context);
+                }
             }
         }
 
         private static void addUserToGames(XmlNode user, int userId, string username, DiabloContext context)
         {
-            XmlNodeList userGames = user.SelectNodes("/games/game");
+            XmlNodeList userGames = user.SelectNodes("games/game");
 
             foreach (XmlNode userGame in userGames)
             {
-                string gameName = userGame.SelectSingleNode("game-name").Value;
+                string gameName = userGame["game-name"].InnerText;
                 XmlNode character = userGame.SelectSingleNode("character");
                 string characterName = character.Attributes["name"].InnerText;
                 decimal cash = decimal.Parse(character.Attributes["cash"].InnerText);
                 int level = int.Parse(character.Attributes["level"].InnerText);
-                DateTime joinedOn = DateTime.Parse(userGame.SelectSingleNode("joined-on").Value);
+                DateTime joinedOn = DateTime.Parse(userGame["joined-on"].InnerText);
 
                 int gameId = context.Games.FirstOrDefault(g => g.Name == gameName).Id;
-                int characterId = context.Characters.FirstOrDefault(c => c.Name == character.Name).Id;
+                int characterId = context.Characters.FirstOrDefault(c => c.Name == characterName).Id;
 
                 UsersGame currentUsersGame = new UsersGame
                 {
@@ -57,11 +63,12 @@
 
                 Console.WriteLine($"User {username} successfully added to game {gameName}");
             }
+
+            context.SaveChanges();
         }
 
-        public static User createUser(DiabloContext context, XmlNode user, List<User> dbUsers)
+        public static User createUser(DiabloContext context, XmlNode user, string username)
         {
-            string username = user.Attributes["username"].InnerText;
             string firstName = null;
             string lastName = null;
             string email = null;
@@ -94,28 +101,12 @@
                 IsDeleted = isDeleted,
                 IpAddress = ipAddress
             };
+            
+            context.Users.Add(currentUser);
+            context.SaveChanges();
 
-
-
-            if (userExistsInDatabase(dbUsers, currentUser.Username))
-            {
-                context.Users.Add(currentUser);
-                Console.WriteLine($"Successfully added user {currentUser.Username}");
-                return currentUser;
-            }
-        }
-
-        public static bool userExistsInDatabase(List<User> users, string username)
-        {
-            foreach (var user in users)
-            {
-                if (user.Username == username)
-                {
-                    return true;
-                }
-            }
-        
-            return false;
+            Console.WriteLine($"Successfully added user {currentUser.Username}");
+            return currentUser;
         }
     }
 }
