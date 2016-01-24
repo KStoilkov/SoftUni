@@ -26,7 +26,7 @@
         [MaxLength(100)]
         public string Title { get; set; }
 
-        public AgeRestriction? ageRestriction { get; set; }
+        public AgeRestriction? AgeRestriction { get; set; }
 
         public virtual ICollection<User> UsersThatMovieIsFavorite
         {
