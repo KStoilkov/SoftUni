@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DistanceCalculatorSoapSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CalculatorConsoleClient", "CalculatorConsoleClient\02.CalculatorConsoleClient.csproj", "{F02BA11A-7C94-49FA-B04F-E4B4B9508DC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DistanceCalculatorRestService", "DistanceCalculatorRestService\03.DistanceCalculatorRestService.csproj", "{190B870C-4855-428C-B9DA-628B8AA41C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.DistanceCalculatorRestClient", "DistanceCalculatorRestClient\04.DistanceCalculatorRestClient.csproj", "{CCCB42E4-A33A-401C-BDF7-9A49E05F44CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F02BA11A-7C94-49FA-B04F-E4B4B9508DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F02BA11A-7C94-49FA-B04F-E4B4B9508DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F02BA11A-7C94-49FA-B04F-E4B4B9508DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190B870C-4855-428C-B9DA-628B8AA41C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190B870C-4855-428C-B9DA-628B8AA41C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190B870C-4855-428C-B9DA-628B8AA41C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190B870C-4855-428C-B9DA-628B8AA41C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCB42E4-A33A-401C-BDF7-9A49E05F44CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCB42E4-A33A-401C-BDF7-9A49E05F44CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCB42E4-A33A-401C-BDF7-9A49E05F44CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCB42E4-A33A-401C-BDF7-9A49E05F44CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

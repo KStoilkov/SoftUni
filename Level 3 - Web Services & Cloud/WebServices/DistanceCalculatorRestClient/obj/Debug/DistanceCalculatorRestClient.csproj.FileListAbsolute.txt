@@ -1,0 +1,6 @@
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\WebServices\DistanceCalculatorRestClient\bin\Debug\DistanceCalculatorRestClient.exe.config
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\WebServices\DistanceCalculatorRestClient\bin\Debug\DistanceCalculatorRestClient.exe
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\WebServices\DistanceCalculatorRestClient\bin\Debug\DistanceCalculatorRestClient.pdb
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\WebServices\DistanceCalculatorRestClient\obj\Debug\DistanceCalculatorRestClient.csprojResolveAssemblyReference.cache
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\WebServices\DistanceCalculatorRestClient\obj\Debug\DistanceCalculatorRestClient.exe
+C:\Users\Stoilkov\documents\visual studio 2015\Projects\WebServices\DistanceCalculatorRestClient\obj\Debug\DistanceCalculatorRestClient.pdb
