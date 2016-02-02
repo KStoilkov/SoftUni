@@ -1,0 +1,5 @@
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\06.Dom-Parser-Delete-Albums\bin\Debug\06.Dom-Parser-Delete-Albums.exe.config
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\06.Dom-Parser-Delete-Albums\bin\Debug\06.Dom-Parser-Delete-Albums.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\06.Dom-Parser-Delete-Albums\bin\Debug\06.Dom-Parser-Delete-Albums.pdb
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\06.Dom-Parser-Delete-Albums\obj\Debug\06.Dom-Parser-Delete-Albums.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\06.Dom-Parser-Delete-Albums\obj\Debug\06.Dom-Parser-Delete-Albums.pdb

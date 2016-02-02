@@ -1,0 +1,9 @@
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\02.DOM-Parser-Extract-Album-Names\bin\Debug\02.DOM-Parser-Extract-Album-Names.exe.config
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\02.DOM-Parser-Extract-Album-Names\bin\Debug\02.DOM-Parser-Extract-Album-Names.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\02.DOM-Parser-Extract-Album-Names\bin\Debug\02.DOM-Parser-Extract-Album-Names.pdb
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\02.DOM-Parser-Extract-Album-Names\obj\Debug\02.DOM-Parser-Extract-Album-Names.csprojResolveAssemblyReference.cache
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\02.DOM-Parser-Extract-Album-Names\obj\Debug\02.DOM-Parser-Extract-Album-Names.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\02.DOM-Parser-Extract-Album-Names\obj\Debug\02.DOM-Parser-Extract-Album-Names.pdb
+C:\Users\Stoilkov\Documents\GitHub\SoftUni\Level 3 - Database Applications\05.XML-in-.NET\XML-in-.NET\02.DOM-Parser-Extract-Album-Names\bin\Debug\02.DOM-Parser-Extract-Album-Names.exe.config
+C:\Users\Stoilkov\Documents\GitHub\SoftUni\Level 3 - Database Applications\05.XML-in-.NET\XML-in-.NET\02.DOM-Parser-Extract-Album-Names\obj\Debug\02.DOM-Parser-Extract-Album-Names.exe
+C:\Users\Stoilkov\Documents\GitHub\SoftUni\Level 3 - Database Applications\05.XML-in-.NET\XML-in-.NET\02.DOM-Parser-Extract-Album-Names\obj\Debug\02.DOM-Parser-Extract-Album-Names.pdb

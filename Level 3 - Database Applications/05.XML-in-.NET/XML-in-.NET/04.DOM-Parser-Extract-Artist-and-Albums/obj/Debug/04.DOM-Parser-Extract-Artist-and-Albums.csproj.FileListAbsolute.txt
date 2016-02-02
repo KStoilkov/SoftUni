@@ -1,0 +1,5 @@
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\04.DOM-Parser-Extract-Artist-and-Albums\bin\Debug\04.DOM-Parser-Extract-Artist-and-Albums.exe.config
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\04.DOM-Parser-Extract-Artist-and-Albums\bin\Debug\04.DOM-Parser-Extract-Artist-and-Albums.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\04.DOM-Parser-Extract-Artist-and-Albums\bin\Debug\04.DOM-Parser-Extract-Artist-and-Albums.pdb
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\04.DOM-Parser-Extract-Artist-and-Albums\obj\Debug\04.DOM-Parser-Extract-Artist-and-Albums.exe
+c:\users\stoilkov\documents\visual studio 2015\Projects\XML-in-.NET\04.DOM-Parser-Extract-Artist-and-Albums\obj\Debug\04.DOM-Parser-Extract-Artist-and-Albums.pdb

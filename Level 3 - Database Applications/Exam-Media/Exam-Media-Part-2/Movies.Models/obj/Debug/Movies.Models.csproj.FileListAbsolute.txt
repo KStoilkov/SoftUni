@@ -1,0 +1,5 @@
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-2\Movies.Models\bin\Debug\Movies.Models.dll
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-2\Movies.Models\bin\Debug\Movies.Models.pdb
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-2\Movies.Models\obj\Debug\Movies.Models.csprojResolveAssemblyReference.cache
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-2\Movies.Models\obj\Debug\Movies.Models.dll
+c:\users\stoilkov\documents\visual studio 2015\Projects\Exam-Media-Part-2\Movies.Models\obj\Debug\Movies.Models.pdb
