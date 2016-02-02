@@ -1,0 +1,5 @@
+c:\users\kiro\documents\visual studio 2015\Projects\BookShop\BookShop.Models\bin\Debug\BookShop.Models.dll
+c:\users\kiro\documents\visual studio 2015\Projects\BookShop\BookShop.Models\bin\Debug\BookShop.Models.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\BookShop\BookShop.Models\obj\Debug\BookShop.Models.csprojResolveAssemblyReference.cache
+c:\users\kiro\documents\visual studio 2015\Projects\BookShop\BookShop.Models\obj\Debug\BookShop.Models.dll
+c:\users\kiro\documents\visual studio 2015\Projects\BookShop\BookShop.Models\obj\Debug\BookShop.Models.pdb
