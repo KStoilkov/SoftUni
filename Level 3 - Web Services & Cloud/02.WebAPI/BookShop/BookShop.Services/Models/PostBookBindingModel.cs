@@ -2,23 +2,27 @@
 {
     using System;
     using System.Collections.Generic;
-    
-    public class GetBookViewModel
+    using System.ComponentModel.DataAnnotations;
+
+    public class PostBookBindingModel
     {
+        [Required]
+        [MinLength(3)]
         public string Title { get; set; }
 
         public string Description { get; set; }
 
+        [Required]
         public decimal Price { get; set; }
 
         public int? Copies { get; set; }
 
+        [Required]
         public int AuthorId { get; set; }
 
-        public string AuthorName { get; set; }
-
+        [Required]
         public DateTime Edition { get; set; }
 
-        public virtual IEnumerable<string> Categories { get; set; }
+        public string Categories { get; set; }
     }
 }

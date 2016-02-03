@@ -5,6 +5,7 @@
     using Models;
     using System.Linq;
     using System.Web.Http;
+    using System.Web.OData;
 
     [RoutePrefix("api/authors")]
     public class AuthorsController : ApiController
@@ -17,11 +18,12 @@
         }
 
         [HttpGet]
+        [EnableQuery]
         public IHttpActionResult GetAuthors()
         {
-            var books = context.Authors.ToList();
+            var authors = context.Authors.AsQueryable();
 
-            return this.Ok(books);
+            return this.Ok(authors);
         }
 
         [HttpPost]
@@ -52,13 +54,14 @@
 
             if (author == null)
             {
-                return this.BadRequest("Invalid Author Id");
+                return this.BadRequest("Author doesn't exist.");
             }
 
             return this.Ok(author);
         }
 
         [HttpGet]
+        [EnableQuery]
         [Route("{id}/books")]
         public IHttpActionResult GetAuthorBooks(int id)
         {

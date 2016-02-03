@@ -1,6 +1,5 @@
 ﻿namespace BookShop.Services.Models
 {
-    using BookShop.Models;
     using System;
     using System.Collections.Generic;
 
@@ -12,7 +11,7 @@
 
         public decimal Price { get; set; }
 
-        public int Copies { get; set; }
+        public int? Copies { get; set; }
 
         public DateTime Edition { get; set; }
 
