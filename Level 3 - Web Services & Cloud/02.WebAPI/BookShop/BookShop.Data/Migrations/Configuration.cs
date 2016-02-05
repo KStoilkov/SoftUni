@@ -6,7 +6,7 @@ namespace BookShop.Data.Migrations
     {
         public Configuration()
         {
-            this.AutomaticMigrationDataLossAllowed = true;
+            //this.AutomaticMigrationDataLossAllowed = true;
             this.AutomaticMigrationsEnabled = true;
             this.ContextKey = "BookShop.Data.BookShopModel";
         }

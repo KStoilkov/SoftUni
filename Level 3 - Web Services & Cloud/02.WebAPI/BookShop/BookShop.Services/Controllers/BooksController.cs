@@ -9,6 +9,7 @@
     using System;
     using System.Web.OData;
     using Microsoft.AspNet.Identity;
+
     [RoutePrefix("api/books")]
     public class BooksController : ApiController
     {
@@ -210,12 +211,56 @@
             {
                 Price = book.Price,
                 DateOfPurshase = DateTime.Now,
+                isRecalled = false,
                 UserId = userId,
                 BookId = book.Id
             };
 
             book.Copies--;
             context.Purshases.Add(purshase);
+            context.SaveChanges();
+
+            var viewPurshase = new PurshaseViewModel
+            {
+                Price = purshase.Price,
+                DateOfPurshase = purshase.DateOfPurshase,
+                isRecalled = purshase.isRecalled,
+                User = this.User.Identity.GetUserName(),
+                Book = purshase.Book.Title
+            };
+
+            return this.Ok(viewPurshase);
+        }
+
+        [Authorize]
+        [HttpPut]
+        [Route("recall/{id}")]
+        public IHttpActionResult RecallBook(int id)
+        {
+            var book = context.Books.Find(id);
+
+            if (book == null)
+            {
+                return this.BadRequest("Book doesn't exist.");
+            }
+
+            string userId = this.User.Identity.GetUserId();
+
+            var purshase = context.Purshases
+                .FirstOrDefault(p => p.UserId == userId && p.BookId == book.Id);
+            
+            if (purshase == null)
+            {
+                return this.BadRequest("You don't have this book.");
+            }
+            
+            if (DateTime.Compare(DateTime.Now, purshase.DateOfPurshase.AddDays(30)) > 0)
+            {
+                return this.BadRequest("Date of purshase is more then 30 days.");
+            }
+
+            book.Copies++;
+            purshase.isRecalled = true;
             context.SaveChanges();
 
             var viewPurshase = new PurshaseViewModel

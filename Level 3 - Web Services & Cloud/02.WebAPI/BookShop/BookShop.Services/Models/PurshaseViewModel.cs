@@ -8,7 +8,7 @@
         
         public DateTime DateOfPurshase { get; set; }
 
-        public bool? isRecalled { get; set; }
+        public bool isRecalled { get; set; }
         
         public string User { get; set; }
     

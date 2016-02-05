@@ -19,7 +19,8 @@
         [Required]
         public DateTime DateOfPurshase { get; set; }
 
-        public bool? isRecalled { get; set; }
+        [Required]
+        public bool isRecalled { get; set; }
 
         [Required]
         public string UserId { get; set; }
