@@ -21,7 +21,14 @@
         [EnableQuery]
         public IHttpActionResult GetAuthors()
         {
-            var authors = context.Authors.AsQueryable();
+            var authors = context.Authors
+                .Select(a => new GetAuthorViewModel()
+                {
+                    Id = a.Id,
+                    FirstName = a.FirstName,
+                    LastName = a.LastName,
+                    Books = a.Books.Select(b => b.Title)
+                });
 
             return this.Ok(authors);
         }
@@ -57,7 +64,15 @@
                 return this.BadRequest("Author doesn't exist.");
             }
 
-            return this.Ok(author);
+            var viewAuthor = new GetAuthorViewModel()
+            {
+                Id = author.Id,
+                FirstName = author.FirstName,
+                LastName = author.LastName,
+                Books = author.Books.Select(b => b.Title)
+            };
+
+            return this.Ok(viewAuthor);
         }
 
         [HttpGet]

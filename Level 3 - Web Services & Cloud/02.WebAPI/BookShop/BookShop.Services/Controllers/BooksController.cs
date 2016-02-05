@@ -8,6 +8,7 @@
     using BookShop.Models;
     using System;
     using System.Web.OData;
+    using Microsoft.AspNet.Identity;
     [RoutePrefix("api/books")]
     public class BooksController : ApiController
     {
@@ -185,6 +186,48 @@
                 });
             
             return this.Ok(viewBook);
+        }
+
+        [Authorize]
+        [HttpPut]
+        [Route("buy/{id}")]
+        public IHttpActionResult BuyBook(int id)
+        {
+            var book = context.Books.Find(id);
+
+            if (book == null)
+            {
+                return this.BadRequest("Book doesn't exist.");
+            }
+
+            if (book.Copies < 1)
+            {
+                return this.BadRequest("Book is out of stock.");
+            }
+
+            string userId = this.User.Identity.GetUserId();
+            var purshase = new Purshase()
+            {
+                Price = book.Price,
+                DateOfPurshase = DateTime.Now,
+                UserId = userId,
+                BookId = book.Id
+            };
+
+            book.Copies--;
+            context.Purshases.Add(purshase);
+            context.SaveChanges();
+
+            var viewPurshase = new PurshaseViewModel
+            {
+                Price = purshase.Price,
+                DateOfPurshase = purshase.DateOfPurshase,
+                isRecalled = purshase.isRecalled,
+                User = this.User.Identity.GetUserName(),
+                Book = purshase.Book.Title
+            };
+
+            return this.Ok(viewPurshase);
         }
     }
 }

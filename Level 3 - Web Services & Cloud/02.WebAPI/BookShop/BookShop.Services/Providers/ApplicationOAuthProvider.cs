@@ -10,6 +10,7 @@ using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
 using BookShop.Services.Models;
+using BookShop.Models;
 
 namespace BookShop.Services.Providers
 {

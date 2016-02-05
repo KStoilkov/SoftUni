@@ -16,6 +16,7 @@ using Microsoft.Owin.Security.OAuth;
 using BookShop.Services.Models;
 using BookShop.Services.Providers;
 using BookShop.Services.Results;
+using BookShop.Models;
 
 namespace BookShop.Services.Controllers
 {
