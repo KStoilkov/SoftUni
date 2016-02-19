@@ -1,0 +1,5 @@
+C:\Users\Kiro\Desktop\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\Kiro\Desktop\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\Kiro\Desktop\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Desktop\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\Kiro\Desktop\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
