@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LinkedList\obj\Debug\07.LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LinkedList\obj\Debug\LinkedList.pdb

@@ -1,0 +1,1 @@
+c:\users\kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\SumAndAverage\bin\Debug\SumAndAverage.exe.config

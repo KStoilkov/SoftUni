@@ -1,0 +1,1 @@
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\ReversedList\bin\Debug\ReversedList.exe.config

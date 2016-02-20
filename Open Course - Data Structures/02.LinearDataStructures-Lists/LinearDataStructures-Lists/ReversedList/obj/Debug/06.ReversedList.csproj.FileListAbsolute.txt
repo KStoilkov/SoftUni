@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\ReversedList\bin\Debug\ReversedList.exe.config
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\ReversedList\bin\Debug\ReversedList.exe
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\ReversedList\bin\Debug\ReversedList.pdb
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\ReversedList\obj\Debug\ReversedList.exe
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\ReversedList\obj\Debug\ReversedList.pdb
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\ReversedList\obj\Debug\06.ReversedList.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\04.RemoveOddOccurences\bin\Debug\04.RemoveOddOccurences.exe.config
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\04.RemoveOddOccurences\bin\Debug\04.RemoveOddOccurences.exe
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\04.RemoveOddOccurences\bin\Debug\04.RemoveOddOccurences.pdb
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\04.RemoveOddOccurences\obj\Debug\04.RemoveOddOccurences.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\04.RemoveOddOccurences\obj\Debug\04.RemoveOddOccurences.exe
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\04.RemoveOddOccurences\obj\Debug\04.RemoveOddOccurences.pdb

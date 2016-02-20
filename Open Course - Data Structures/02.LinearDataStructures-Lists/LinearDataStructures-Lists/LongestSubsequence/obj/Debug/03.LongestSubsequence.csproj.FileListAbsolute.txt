@@ -1,0 +1,6 @@
+c:\users\kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LongestSubsequence\bin\Debug\LongestSubsequence.exe.config
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LongestSubsequence\bin\Debug\LongestSubsequence.exe
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LongestSubsequence\bin\Debug\LongestSubsequence.pdb
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LongestSubsequence\obj\Debug\03.LongestSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LongestSubsequence\obj\Debug\LongestSubsequence.exe
+C:\Users\Kiro\documents\visual studio 2015\Projects\LinearDataStructures-Lists\LongestSubsequence\obj\Debug\LongestSubsequence.pdb
