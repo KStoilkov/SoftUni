@@ -1,0 +1,5 @@
+c:\users\kiro\documents\visual studio 2015\Projects\News\News.Models\bin\Debug\News.Models.dll
+c:\users\kiro\documents\visual studio 2015\Projects\News\News.Models\bin\Debug\News.Models.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\News\News.Models\obj\Debug\News.Models.csprojResolveAssemblyReference.cache
+c:\users\kiro\documents\visual studio 2015\Projects\News\News.Models\obj\Debug\News.Models.dll
+c:\users\kiro\documents\visual studio 2015\Projects\News\News.Models\obj\Debug\News.Models.pdb
