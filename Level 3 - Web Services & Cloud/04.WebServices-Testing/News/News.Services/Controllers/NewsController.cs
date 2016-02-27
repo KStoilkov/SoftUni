@@ -10,11 +10,16 @@
     [RoutePrefix("api/News")]
     public class NewsController : ApiController
     {
-        private NewsRepository repo;
-
-        public NewsController()
+        private IRepository<NewsModel> repo;
+        
+        public NewsController(IRepository<NewsModel> repository)
         {
-            this.repo = new NewsRepository(new NewsContext());
+            this.repo = repository;
+        }
+        
+        public NewsController() 
+            : this(new NewsRepository(new NewsContext()))
+        {
         }
 
         [HttpGet]
@@ -43,7 +48,7 @@
             this.repo.Add(news);
             this.repo.SaveChanges();
 
-            return this.Ok();
+            return this.Created($"api/News/{news.Id}", news);
         }
 
         [HttpPut]
