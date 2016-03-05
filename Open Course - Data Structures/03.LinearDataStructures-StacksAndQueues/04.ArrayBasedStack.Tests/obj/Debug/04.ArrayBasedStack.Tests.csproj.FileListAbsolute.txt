@@ -1,0 +1,8 @@
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\04.ArrayBasedStack.Tests\bin\Debug\04.ArrayBasedStack.Tests.dll
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\04.ArrayBasedStack.Tests\bin\Debug\04.ArrayBasedStack.Tests.pdb
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\04.ArrayBasedStack.Tests\bin\Debug\03.ImplementArrayBasedStack.exe
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\04.ArrayBasedStack.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\04.ArrayBasedStack.Tests\bin\Debug\03.ImplementArrayBasedStack.pdb
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\04.ArrayBasedStack.Tests\obj\Debug\04.ArrayBasedStack.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\04.ArrayBasedStack.Tests\obj\Debug\04.ArrayBasedStack.Tests.dll
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\04.ArrayBasedStack.Tests\obj\Debug\04.ArrayBasedStack.Tests.pdb

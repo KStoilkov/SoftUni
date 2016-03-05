@@ -1,0 +1,8 @@
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\06.LinkedStack.Tests\bin\Debug\06.LinkedStack.Tests.dll
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\06.LinkedStack.Tests\bin\Debug\06.LinkedStack.Tests.pdb
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\06.LinkedStack.Tests\bin\Debug\05.LinkedStack.exe
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\06.LinkedStack.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\06.LinkedStack.Tests\bin\Debug\05.LinkedStack.pdb
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\06.LinkedStack.Tests\obj\Debug\06.LinkedStack.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\06.LinkedStack.Tests\obj\Debug\06.LinkedStack.Tests.dll
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\06.LinkedStack.Tests\obj\Debug\06.LinkedStack.Tests.pdb

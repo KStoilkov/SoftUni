@@ -1,0 +1,5 @@
+c:\users\kiro\documents\visual studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\02.CalculateSequenceWithQueue\bin\Debug\02.CalculateSequenceWithQueue.exe.config
+c:\users\kiro\documents\visual studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\02.CalculateSequenceWithQueue\bin\Debug\02.CalculateSequenceWithQueue.exe
+c:\users\kiro\documents\visual studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\02.CalculateSequenceWithQueue\bin\Debug\02.CalculateSequenceWithQueue.pdb
+c:\users\kiro\documents\visual studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\02.CalculateSequenceWithQueue\obj\Debug\02.CalculateSequenceWithQueue.exe
+c:\users\kiro\documents\visual studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\02.CalculateSequenceWithQueue\obj\Debug\02.CalculateSequenceWithQueue.pdb

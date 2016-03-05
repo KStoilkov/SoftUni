@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\03.ImplementArrayBasedStack\bin\Debug\03.ImplementArrayBasedStack.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\03.ImplementArrayBasedStack\bin\Debug\03.ImplementArrayBasedStack.exe
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\03.ImplementArrayBasedStack\bin\Debug\03.ImplementArrayBasedStack.pdb
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\03.ImplementArrayBasedStack\obj\Debug\03.ImplementArrayBasedStack.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\03.ImplementArrayBasedStack\obj\Debug\03.ImplementArrayBasedStack.exe
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\03.ImplementArrayBasedStack\obj\Debug\03.ImplementArrayBasedStack.pdb

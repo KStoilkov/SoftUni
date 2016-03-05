@@ -1,0 +1,6 @@
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.exe.config
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.exe
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.pdb
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\05.LinkedStack\obj\Debug\05.LinkedStack.csprojResolveAssemblyReference.cache
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\05.LinkedStack\obj\Debug\05.LinkedStack.exe
+C:\Users\Kiro\Documents\Visual Studio 2015\Projects\03.LinearDataStructures-StacksAndQueues\05.LinkedStack\obj\Debug\05.LinkedStack.pdb
