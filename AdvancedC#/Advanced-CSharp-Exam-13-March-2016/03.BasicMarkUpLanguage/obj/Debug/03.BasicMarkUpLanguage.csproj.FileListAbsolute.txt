@@ -1,0 +1,6 @@
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe.config
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\03.BasicMarkUpLanguage\bin\Debug\03.BasicMarkUpLanguage.pdb
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.csprojResolveAssemblyReference.cache
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.exe
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\03.BasicMarkUpLanguage\obj\Debug\03.BasicMarkUpLanguage.pdb

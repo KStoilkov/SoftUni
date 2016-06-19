@@ -4,3 +4,6 @@ c:\users\kiro\documents\visual studio 2015\Projects\Advanced-CSharp-Exam-13-Marc
 c:\users\kiro\documents\visual studio 2015\Projects\Advanced-CSharp-Exam-13-March-2016\01.ArrangeIntegers\obj\Debug\01.ArrangeIntegers.csprojResolveAssemblyReference.cache
 c:\users\kiro\documents\visual studio 2015\Projects\Advanced-CSharp-Exam-13-March-2016\01.ArrangeIntegers\obj\Debug\01.ArrangeIntegers.exe
 c:\users\kiro\documents\visual studio 2015\Projects\Advanced-CSharp-Exam-13-March-2016\01.ArrangeIntegers\obj\Debug\01.ArrangeIntegers.pdb
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\01.ArrangeIntegers\bin\Debug\01.ArrangeIntegers.exe.config
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\01.ArrangeIntegers\obj\Debug\01.ArrangeIntegers.exe
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\01.ArrangeIntegers\obj\Debug\01.ArrangeIntegers.pdb

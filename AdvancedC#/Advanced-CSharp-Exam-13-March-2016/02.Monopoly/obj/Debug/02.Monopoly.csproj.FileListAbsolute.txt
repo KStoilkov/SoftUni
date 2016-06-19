@@ -1,0 +1,6 @@
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\02.Monopoly\bin\Debug\02.Monopoly.exe.config
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\02.Monopoly\bin\Debug\02.Monopoly.exe
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\02.Monopoly\bin\Debug\02.Monopoly.pdb
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\02.Monopoly\obj\Debug\02.Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\02.Monopoly\obj\Debug\02.Monopoly.exe
+C:\Users\kisto\OneDrive\Documents\GitHub\SoftUni\AdvancedC#\Advanced-CSharp-Exam-13-March-2016\02.Monopoly\obj\Debug\02.Monopoly.pdb

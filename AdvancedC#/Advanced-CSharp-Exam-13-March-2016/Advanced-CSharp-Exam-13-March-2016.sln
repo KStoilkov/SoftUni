@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ArrangeIntegers", "01.ArrangeIntegers\01.ArrangeIntegers.csproj", "{781EAE14-B633-4F7D-BA99-CC7DE731470E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Monopoly", "02.Monopoly\02.Monopoly.csproj", "{81057D5D-21FE-432D-A93F-9006858DE2FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.BasicMarkUpLanguage", "03.BasicMarkUpLanguage\03.BasicMarkUpLanguage.csproj", "{8DFBFBEC-83E0-4AEB-A670-E6D2CFF5DD0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{781EAE14-B633-4F7D-BA99-CC7DE731470E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{781EAE14-B633-4F7D-BA99-CC7DE731470E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{781EAE14-B633-4F7D-BA99-CC7DE731470E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81057D5D-21FE-432D-A93F-9006858DE2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81057D5D-21FE-432D-A93F-9006858DE2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81057D5D-21FE-432D-A93F-9006858DE2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81057D5D-21FE-432D-A93F-9006858DE2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFBFBEC-83E0-4AEB-A670-E6D2CFF5DD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFBFBEC-83E0-4AEB-A670-E6D2CFF5DD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFBFBEC-83E0-4AEB-A670-E6D2CFF5DD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFBFBEC-83E0-4AEB-A670-E6D2CFF5DD0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
