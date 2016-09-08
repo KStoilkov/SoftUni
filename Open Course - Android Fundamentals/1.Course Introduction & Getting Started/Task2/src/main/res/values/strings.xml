@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android-Course-Homework-2</string>
+    <string name="gosho">Gosho</string>
+    <string name="pesho">Pesho</string>
+    <string name="tosho">Tosho</string>
+    <string name="click_btn">Click a button</string>
+</resources>
